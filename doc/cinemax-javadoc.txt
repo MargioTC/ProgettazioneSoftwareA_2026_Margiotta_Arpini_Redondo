@@ -1,0 +1,593 @@
+================================================================================
+  CINEMAX – JAVADOC
+  package: cinemax
+================================================================================
+
+INDICE
+  1. CineMax
+  2. Film
+  3. Proiezione
+  4. Prenotazione
+  5. Utente
+  6. GestoreFile
+
+================================================================================
+1. CLASSE: CineMax
+================================================================================
+
+  public class CineMax
+
+  Punto di ingresso dell'applicazione CineMax. Contiene il metodo main e
+  gestisce il menu principale, il login/logout, la registrazione dei clienti
+  e tutti i flussi operativi distinti per ruolo (cliente, proiezionista,
+  bigliettaio).
+
+  ── CAMPI STATICI PRIVATI ────────────────────────────────────────────────────
+
+  [private static final] Scanner sc
+      Scanner globale per la lettura dell'input da tastiera.
+
+  [private static final] DateTimeFormatter FMT_DATA
+      Formattatore per date senza orario. Pattern: "dd/MM/yyyy".
+
+  [private static final] DateTimeFormatter FMT_DATAORA
+      Formattatore per data e ora. Equivale a Proiezione.FORMATTER.
+
+  [private static] List<Proiezione> proiezioni
+      Lista in memoria di tutte le proiezioni caricate da file CSV.
+
+  [private static] List<Utente> utenti
+      Lista in memoria di tutti gli utenti registrati.
+
+  [private static] List<Prenotazione> prenotazioni
+      Lista in memoria di tutte le prenotazioni.
+
+  [private static] Utente utenteCorrente
+      Utente attualmente autenticato. null se nessuno è loggato.
+
+  ── METODI ───────────────────────────────────────────────────────────────────
+
+  public static void main(String[] args)
+      Metodo principale di avvio. Inizializza i file di dati tramite
+      GestoreFile.inizializzaFileSeNonEsistono(), carica in memoria
+      proiezioni, utenti e prenotazioni, quindi avvia il menu principale.
+      @param args  Argomenti da riga di comando (non utilizzati).
+
+  private static void menuPrincipale()
+      Visualizza il menu principale (Login / Registrati / Guest / Esci) in
+      loop finché l'utente non sceglie di uscire. Smista verso login(),
+      registraCliente() o menuGuest().
+
+  private static void login()
+      Legge username e password, calcola l'hash SHA-256 e verifica le
+      credenziali. In caso di successo imposta utenteCorrente e apre il menu
+      corrispondente al ruolo (menuCliente, menuProiezionista o
+      menuBigliettaio).
+
+  private static void logout()
+      Effettua il logout dell'utente corrente: stampa un messaggio di
+      congedo e azzera utenteCorrente.
+
+  private static void registraCliente()
+      Raccoglie i dati di un nuovo cliente (nome, cognome, username univoco,
+      password, data di nascita opzionale, domicilio), crea un Utente con
+      ruolo "cliente" e lo persiste tramite GestoreFile.salvaUtenti().
+
+  private static void menuGuest()
+      Menu per utenti non autenticati. Permette di cercare proiezioni per
+      titolo e visualizzare i dettagli (ID richiesto). Non consente
+      prenotazioni.
+
+  private static void menuCliente()
+      Menu per clienti autenticati. Operazioni: cerca proiezioni, visualizza
+      dettagli, prenota posti, visualizza prenotazioni personali, modifica
+      prenotazione, cancella prenotazione, logout.
+
+  private static void menuProiezionista()
+      Menu per proiezionisti autenticati. Operazioni: visualizza tutte le
+      proiezioni, aggiunge, modifica (data/ora) ed elimina proiezioni —
+      modifica ed eliminazione sono bloccate se esistono prenotazioni
+      collegate.
+
+  private static void menuBigliettaio()
+      Menu per bigliettai autenticati. Operazioni: visualizza le prenotazioni
+      di oggi, cerca prenotazioni con filtri multipli.
+
+  private static void cercaProiezione()
+      Ricerca proiezioni applicando in modo combinato i criteri opzionali:
+      titolo (parziale), genere, data inizio, data fine, costo minimo,
+      costo massimo. Stampa i risultati in formato tabellare.
+
+  private static void visualizzaProiezione()
+      Chiede un ID proiezione e stampa tutti i dettagli: film, data/ora,
+      costo, posti liberi su 200.
+
+  private static void aggiungiProiezione()
+      Raccoglie i dati di un nuovo film (titolo, genere, regista, anno,
+      durata, età minima), la data/ora e il costo del biglietto, genera un
+      ID univoco basato su UUID e salva la nuova proiezione.
+      Riservato al ruolo proiezionista.
+
+  private static void modificaProiezione()
+      Modifica la data/ora di una proiezione esistente. Rifiuta l'operazione
+      se esistono prenotazioni per quella proiezione.
+      Riservato al ruolo proiezionista.
+
+  private static void eliminaProiezione()
+      Rimuove una proiezione dalla lista e dal file CSV. Rifiuta
+      l'operazione se esistono prenotazioni collegate.
+      Riservato al ruolo proiezionista.
+
+  private static void creaPrenotazione()
+      Guida il cliente nella selezione di una proiezione futura e nel numero
+      di posti (<=posti liberi). Genera e salva una nuova Prenotazione con
+      UUID automatico.
+      Riservato al ruolo cliente.
+
+  private static void visualizzaMiePrenotazioni()
+      Mostra tutte le prenotazioni del cliente corrente con titolo film,
+      data/ora, numero posti e costo totale.
+      Riservato al ruolo cliente.
+
+  private static void modificaPrenotazione()
+      Consente al cliente di spostare una prenotazione su una proiezione
+      diversa, verificando che quella originale sia futura e che la nuova
+      abbia posti sufficienti.
+      Riservato al ruolo cliente.
+
+  private static void eliminaPrenotazione()
+      Cancella una prenotazione del cliente corrente. Rifiuta l'operazione
+      se la proiezione associata è già passata.
+      Riservato al ruolo cliente.
+
+  private static void visualizzaPrenotazioniOggi()
+      Filtra e stampa tutte le prenotazioni relative a proiezioni programmate
+      nella giornata corrente.
+      Riservato al ruolo bigliettaio.
+
+  private static void cercaPrenotazione()
+      Ricerca prenotazioni con filtri combinabili: codice UUID, nome cliente,
+      titolo film (parziale), data inizio e data fine.
+      Riservato al ruolo bigliettaio.
+
+  private static long calcolaPostiLiberi(Proiezione p)
+      Calcola i posti ancora disponibili per la proiezione indicata
+      sottraendo la somma dei posti prenotati da CAPACITA_SALA (200).
+      @param p      La proiezione di cui calcolare i posti liberi.
+      @return       Numero di posti liberi (>= 0).
+
+  private static Proiezione trovaProiezioneById(String id)
+      Ricerca lineare nella lista in memoria per ID esatto.
+      @param id     Identificatore della proiezione.
+      @return       La Proiezione trovata, oppure null se non esiste.
+
+  private static void stampaListaProiezioni(List<Proiezione> lista)
+      Stampa in formato tabellare (ID, Titolo, Genere, Data/Ora, Costo)
+      la lista fornita. I titoli vengono troncati a 29 caratteri.
+      @param lista  Lista di proiezioni da stampare.
+
+  private static void stampaDettaglioPrenotazione(Prenotazione pr)
+      Stampa codice, nome cliente, titolo film, data/ora, numero biglietti
+      e costo totale della prenotazione indicata.
+      @param pr     La prenotazione da dettagliare.
+
+  private static int leggiIntero(String prompt, int min, int max)
+      Cicla la lettura da tastiera finché l'utente non inserisce un intero
+      nell'intervallo [min, max].
+      @param prompt  Messaggio da mostrare all'utente.
+      @param min     Valore minimo accettato (incluso).
+      @param max     Valore massimo accettato (incluso).
+      @return        Il valore intero inserito.
+
+  private static double leggiDouble(String prompt, double min, double max)
+      Cicla la lettura da tastiera finché l'utente non inserisce un decimale
+      nell'intervallo [min, max]. Accetta sia punto che virgola come
+      separatore decimale.
+      @param prompt  Messaggio da mostrare all'utente.
+      @param min     Valore minimo accettato (incluso).
+      @param max     Valore massimo accettato (incluso).
+      @return        Il valore double inserito.
+
+  private static LocalDateTime leggiDataOra()
+      Legge una data/ora nel formato "dd/MM/yyyy HH:mm". Ripete la richiesta
+      in caso di formato errato; restituisce null se l'utente preme Invio
+      senza digitare nulla (annullamento).
+      @return  LocalDateTime parsato, oppure null in caso di annullamento.
+
+  private static String tronca(String s, int max)
+      Tronca la stringa alla lunghezza massima indicata aggiungendo "..." se
+      necessario.
+      @param s    Stringa da troncare (può essere null).
+      @param max  Lunghezza massima della stringa risultante.
+      @return     Stringa troncata, originale se entro il limite, o "" se null.
+
+================================================================================
+2. CLASSE: Film
+================================================================================
+
+  public class Film
+
+  Rappresenta un film con le sue caratteristiche principali.
+  Classe entità (POJO) senza dipendenze esterne.
+
+  ── CAMPI PRIVATI ────────────────────────────────────────────────────────────
+
+  [private] String titolo
+      Titolo del film.
+
+  [private] String genere
+      Genere cinematografico (es. Azione, Commedia, Drammatico).
+
+  [private] String regista
+      Nome del regista.
+
+  [private] int anno
+      Anno di uscita del film.
+
+  [private] int durata
+      Durata del film in minuti.
+
+  [private] int etaMinima
+      Età minima del pubblico. Il valore 0 indica "per tutti".
+
+  ── COSTRUTTORE ──────────────────────────────────────────────────────────────
+
+  public Film(String titolo, String genere, String regista,
+              int anno, int durata, int etaMinima)
+      Costruttore completo. Inizializza tutti i campi.
+      @param titolo     Titolo del film.
+      @param genere     Genere del film.
+      @param regista    Regista del film.
+      @param anno       Anno di uscita.
+      @param durata     Durata in minuti.
+      @param etaMinima  Età minima del pubblico (0 = per tutti).
+
+  ── METODI GETTER ────────────────────────────────────────────────────────────
+
+  public String getTitolo()     @return  Il titolo del film.
+  public String getGenere()     @return  Il genere del film.
+  public String getRegista()    @return  Il nome del regista.
+  public int    getAnno()       @return  L'anno di uscita.
+  public int    getDurata()     @return  La durata in minuti.
+  public int    getEtaMinima()  @return  L'età minima del pubblico.
+
+  ── METODI SETTER ────────────────────────────────────────────────────────────
+
+  public void setTitolo(String titolo)      Imposta il titolo.
+  public void setGenere(String genere)      Imposta il genere.
+  public void setRegista(String regista)    Imposta il regista.
+  public void setAnno(int anno)             Imposta l'anno di uscita.
+  public void setDurata(int durata)         Imposta la durata in minuti.
+  public void setEtaMinima(int etaMinima)   Imposta l'età minima.
+
+  ── ALTRI METODI ─────────────────────────────────────────────────────────────
+
+  public String toString()
+      @return  Stringa nel formato:
+               "Titolo: X | Genere: X | Regista: X | Anno: X |
+                Durata: X min | Età minima: X"
+
+================================================================================
+3. CLASSE: Proiezione
+================================================================================
+
+  public class Proiezione
+
+  Rappresenta una singola proiezione cinematografica, associando un Film a
+  una data/ora e a un costo del biglietto. La capacità della sala è fissa
+  a 200 posti.
+
+  ── COSTANTI PUBBLICHE ───────────────────────────────────────────────────────
+
+  [public static final] DateTimeFormatter FORMATTER
+      Formattatore standard per data/ora nel sistema.
+      Pattern: "dd/MM/yyyy HH:mm".
+
+  [public static final] int CAPACITA_SALA = 200
+      Capacità massima della sala (posti).
+
+  ── CAMPI PRIVATI ────────────────────────────────────────────────────────────
+
+  [private] String id
+      Identificatore univoco della proiezione (UUID).
+
+  [private] Film film
+      Film proiettato.
+
+  [private] LocalDateTime dataOra
+      Data e ora della proiezione.
+
+  [private] double costoBiglietto
+      Costo del biglietto in euro.
+
+  ── COSTRUTTORE ──────────────────────────────────────────────────────────────
+
+  public Proiezione(String id, Film film, LocalDateTime dataOra,
+                    double costoBiglietto)
+      Costruttore completo. Inizializza tutti i campi.
+      @param id              Identificatore univoco.
+      @param film            Film da proiettare.
+      @param dataOra         Data e ora della proiezione.
+      @param costoBiglietto  Costo del biglietto in euro.
+
+  ── METODI GETTER ────────────────────────────────────────────────────────────
+
+  public String        getId()              @return  L'ID della proiezione.
+  public Film          getFilm()            @return  Il film associato.
+  public LocalDateTime getDataOra()         @return  La data e ora.
+  public double        getCostoBiglietto()  @return  Il costo del biglietto.
+
+  ── METODI SETTER ────────────────────────────────────────────────────────────
+
+  public void setFilm(Film film)                    Aggiorna il film.
+  public void setDataOra(LocalDateTime dataOra)     Aggiorna data e ora.
+  public void setCostoBiglietto(double costo)       Aggiorna il costo.
+
+  ── ALTRI METODI ─────────────────────────────────────────────────────────────
+
+  public String getDataOraFormattata()
+      Restituisce la data/ora come stringa nel formato "dd/MM/yyyy HH:mm"
+      usando FORMATTER.
+      @return  Stringa formattata della data e ora.
+
+  public String toString()
+      @return  Stringa nel formato: "[id] TitoloFilm | dd/MM/yyyy HH:mm | € costo"
+
+================================================================================
+4. CLASSE: Prenotazione
+================================================================================
+
+  public class Prenotazione
+
+  Rappresenta una prenotazione effettuata da un cliente per una specifica
+  proiezione. Ogni prenotazione è identificata da un codice UUID generato
+  automaticamente oppure fornito esplicitamente (caricamento da CSV).
+
+  ── CAMPI PRIVATI ────────────────────────────────────────────────────────────
+
+  [private] String codice
+      Codice univoco UUID della prenotazione.
+
+  [private] String usernameCliente
+      Username del cliente che ha effettuato la prenotazione.
+
+  [private] String nomeCliente
+      Nome completo (nome + cognome) del cliente.
+
+  [private] String idProiezione
+      ID della proiezione prenotata.
+
+  [private] int numeroPosti
+      Numero di posti prenotati.
+
+  ── COSTRUTTORI ──────────────────────────────────────────────────────────────
+
+  public Prenotazione(String usernameCliente, String nomeCliente,
+                      String idProiezione, int numeroPosti)
+      Costruttore per nuove prenotazioni. Il codice UUID viene generato
+      automaticamente tramite UUID.randomUUID().
+      @param usernameCliente  Username del cliente.
+      @param nomeCliente      Nome completo del cliente.
+      @param idProiezione     ID della proiezione prenotata.
+      @param numeroPosti      Numero di posti da prenotare.
+
+  public Prenotazione(String codice, String usernameCliente, String nomeCliente,
+                      String idProiezione, int numeroPosti)
+      Costruttore per il caricamento da CSV: il codice UUID è già noto e
+      viene passato esplicitamente.
+      @param codice           Codice UUID esistente.
+      @param usernameCliente  Username del cliente.
+      @param nomeCliente      Nome completo del cliente.
+      @param idProiezione     ID della proiezione prenotata.
+      @param numeroPosti      Numero di posti prenotati.
+
+  ── METODI GETTER ────────────────────────────────────────────────────────────
+
+  public String getCodice()            @return  Il codice UUID.
+  public String getUsernameCliente()   @return  Lo username del cliente.
+  public String getNomeCliente()       @return  Il nome completo del cliente.
+  public String getIdProiezione()      @return  L'ID della proiezione.
+  public int    getNumeroPosti()       @return  Il numero di posti prenotati.
+
+  ── METODI SETTER ────────────────────────────────────────────────────────────
+
+  public void setIdProiezione(String idProiezione)
+      Aggiorna l'ID della proiezione (usato nella modifica prenotazione).
+
+  public void setNumeroPosti(int numeroPosti)
+      Aggiorna il numero di posti.
+
+  ── ALTRI METODI ─────────────────────────────────────────────────────────────
+
+  public String toString()
+      @return  Stringa nel formato:
+               "Codice: X | Cliente: X | Proiezione: X | Posti: X"
+
+================================================================================
+5. CLASSE: Utente
+================================================================================
+
+  public class Utente
+
+  Rappresenta un utente del sistema con le sue credenziali (password hash
+  SHA-256) e il suo ruolo operativo.
+
+  ── COSTANTI PUBBLICHE (RUOLI) ───────────────────────────────────────────────
+
+  [public static final] String RUOLO_CLIENTE = "cliente"
+      Può cercare proiezioni e gestire le proprie prenotazioni.
+
+  [public static final] String RUOLO_PROIEZIONISTA = "proiezionista"
+      Può gestire il palinsesto (aggiungere, modificare, eliminare
+      proiezioni).
+
+  [public static final] String RUOLO_BIGLIETTAIO = "bigliettaio"
+      Può cercare e visualizzare prenotazioni.
+
+  ── CAMPI PRIVATI ────────────────────────────────────────────────────────────
+
+  [private] String nome
+      Nome dell'utente.
+
+  [private] String cognome
+      Cognome dell'utente.
+
+  [private] String username
+      Username univoco nel sistema.
+
+  [private] String passwordHash
+      Hash SHA-256 della password dell'utente.
+
+  [private] String dataNascita
+      Data di nascita nel formato "dd/MM/yyyy". Può essere stringa vuota.
+
+  [private] String domicilio
+      Luogo di domicilio dell'utente.
+
+  [private] String ruolo
+      Ruolo dell'utente. Deve corrispondere a una delle costanti RUOLO_*.
+
+  ── COSTRUTTORE ──────────────────────────────────────────────────────────────
+
+  public Utente(String nome, String cognome, String username,
+                String passwordHash, String dataNascita,
+                String domicilio, String ruolo)
+      Costruttore completo. Inizializza tutti i campi.
+      @param nome          Nome dell'utente.
+      @param cognome       Cognome dell'utente.
+      @param username      Username univoco.
+      @param passwordHash  Hash SHA-256 della password.
+      @param dataNascita   Data di nascita (può essere vuota).
+      @param domicilio     Luogo di domicilio.
+      @param ruolo         Ruolo nel sistema (usa le costanti RUOLO_*).
+
+  ── METODI GETTER ────────────────────────────────────────────────────────────
+
+  public String getNome()           @return  Il nome.
+  public String getCognome()        @return  Il cognome.
+  public String getNomeCompleto()   @return  Nome e cognome separati da spazio.
+  public String getUsername()       @return  Lo username.
+  public String getPasswordHash()   @return  L'hash SHA-256 della password.
+  public String getDataNascita()    @return  La data di nascita.
+  public String getDomicilio()      @return  Il domicilio.
+  public String getRuolo()          @return  Il ruolo.
+
+  ── METODI SETTER ────────────────────────────────────────────────────────────
+
+  public void setNome(String nome)                  Aggiorna il nome.
+  public void setCognome(String cognome)            Aggiorna il cognome.
+  public void setPasswordHash(String hash)          Aggiorna l'hash password.
+  public void setDataNascita(String dataNascita)    Aggiorna la data di nascita.
+  public void setDomicilio(String domicilio)        Aggiorna il domicilio.
+
+  ── METODI DI VERIFICA RUOLO ─────────────────────────────────────────────────
+
+  public boolean isCliente()
+      @return  true se il ruolo è RUOLO_CLIENTE.
+
+  public boolean isProiezionista()
+      @return  true se il ruolo è RUOLO_PROIEZIONISTA.
+
+  public boolean isBigliettaio()
+      @return  true se il ruolo è RUOLO_BIGLIETTAIO.
+
+  ── ALTRI METODI ─────────────────────────────────────────────────────────────
+
+  public String toString()
+      @return  Stringa nel formato:
+               "Nome Cognome (@username) [ruolo] - domicilio"
+
+================================================================================
+6. CLASSE: GestoreFile
+================================================================================
+
+  public class GestoreFile
+
+  Layer di persistenza dell'applicazione. Gestisce la lettura e la scrittura
+  delle tre entità principali (Proiezioni, Utenti, Prenotazioni) su file CSV
+  nella cartella "data/", usando ";" come separatore. Fornisce inoltre
+  l'hashing SHA-256 delle password e l'inizializzazione dei file con dati
+  di default.
+
+  ── COSTANTI PUBBLICHE (PERCORSI FILE) ───────────────────────────────────────
+
+  [public static final] String FILE_PROIEZIONI  = "data/proiezioni.csv"
+  [public static final] String FILE_UTENTI      = "data/utenti.csv"
+  [public static final] String FILE_PRENOTAZIONI = "data/prenotazioni.csv"
+
+  ── COSTANTI PRIVATE ─────────────────────────────────────────────────────────
+
+  [private static final] String SEP = ";"
+      Separatore di campo nei file CSV.
+
+  ── METODI – PROIEZIONI ──────────────────────────────────────────────────────
+
+  public static List<Proiezione> caricaProiezioni()
+      Legge "data/proiezioni.csv" e deserializza ogni riga in un oggetto
+      Proiezione (con il Film embedded). Salta intestazione e righe
+      malformate (stampa avviso su System.err). Restituisce lista vuota se
+      il file non esiste.
+      Intestazione attesa: id;titolo;genere;regista;anno;durata;etaMinima;
+                           dataOra;costo
+      @return  Lista di Proiezione caricate dal file.
+
+  public static void salvaProiezioni(List<Proiezione> proiezioni)
+      Sovrascrive "data/proiezioni.csv" con le proiezioni fornite.
+      @param proiezioni  Lista completa delle proiezioni da persistere.
+
+  ── METODI – UTENTI ──────────────────────────────────────────────────────────
+
+  public static List<Utente> caricaUtenti()
+      Legge "data/utenti.csv" e deserializza ogni riga in un Utente. Salta
+      intestazione e righe invalide. Restituisce lista vuota se il file non
+      esiste.
+      Intestazione attesa: nome;cognome;username;passwordHash;dataNascita;
+                           domicilio;ruolo
+      @return  Lista di Utente caricati dal file.
+
+  public static void salvaUtenti(List<Utente> utenti)
+      Sovrascrive "data/utenti.csv" con gli utenti forniti.
+      @param utenti  Lista completa degli utenti da persistere.
+
+  ── METODI – PRENOTAZIONI ────────────────────────────────────────────────────
+
+  public static List<Prenotazione> caricaPrenotazioni()
+      Legge "data/prenotazioni.csv" e deserializza ogni riga in una
+      Prenotazione (usando il costruttore a 5 parametri con UUID esplicito).
+      Restituisce lista vuota se il file non esiste.
+      Intestazione attesa: codice;usernameCliente;nomeCliente;idProiezione;
+                           numeroPosti
+      @return  Lista di Prenotazione caricate dal file.
+
+  public static void salvaPrenotazioni(List<Prenotazione> prenotazioni)
+      Sovrascrive "data/prenotazioni.csv" con le prenotazioni fornite.
+      @param prenotazioni  Lista completa delle prenotazioni da persistere.
+
+  ── METODI UTILITY ───────────────────────────────────────────────────────────
+
+  public static String hashSHA256(String input)
+      Calcola l'hash SHA-256 della stringa fornita e lo restituisce come
+      stringa esadecimale minuscola di 64 caratteri. Usato per cifrare le
+      password prima del salvataggio e del confronto al login.
+      @param input  Stringa da cifrare (tipicamente la password in chiaro).
+      @return       Hash SHA-256 in esadecimale, oppure "" in caso di errore
+                    algoritmo (non dovrebbe mai accadere con JVM standard).
+
+  public static void inizializzaFileSeNonEsistono()
+      Crea la directory "data/" se non esiste. Per ogni file CSV mancante
+      crea un file vuoto con sola intestazione. Se il file utenti non esiste,
+      lo popola con 7 utenti di default (tutti con password "password123"):
+
+        Username   | Ruolo          | Domicilio
+        -----------|----------------|-------------------
+        mrossi     | proiezionista  | Milano
+        lbianchi   | proiezionista  | Varese
+        averdi     | bigliettaio    | Como
+        lneri      | bigliettaio    | Varese
+        sgialli    | bigliettaio    | Milano
+        pmarini    | bigliettaio    | Gallarate
+        eferri     | bigliettaio    | Busto Arsizio
+
+================================================================================
+  Fine documento – CineMax Javadoc
+================================================================================

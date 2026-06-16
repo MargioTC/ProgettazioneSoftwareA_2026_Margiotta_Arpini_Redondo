@@ -1,0 +1,1336 @@
+id;titolo;genere;regista;anno;durata;etaMinima;dataOra;costo
+P1;A Beautiful Mind;Biography;Ron Howard;2001;135;12;30/12/2027 10:30;8,50
+P2;Good Will Hunting;Drama;Gus Van Sant;1997;126;0;29/12/2027 16:00;8,50
+P3;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;29/12/2027 12:30;8,50
+P4;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;29/12/2027 10:00;8,00
+P5;Blue Velvet;Drama;David Lynch;1986;120;12;28/12/2027 15:30;7,50
+P6;The Philadelphia Story;Comedy;George Cukor;1940;112;12;28/12/2027 13:00;8,50
+P7;Good Will Hunting;Drama;Gus Van Sant;1997;126;0;28/12/2027 10:00;6,50
+P8;The Blues Brothers;Action;John Landis;1980;133;0;27/12/2027 14:00;8,50
+P9;The Bridge on the River Kwai;Adventure;David Lean;1957;161;6;27/12/2027 10:30;7,50
+P10;Good Will Hunting;Drama;Gus Van Sant;1997;126;0;26/12/2027 19:30;10,00
+P11;The Bridge on the River Kwai;Adventure;David Lean;1957;161;6;26/12/2027 16:00;8,50
+P12;Good Will Hunting;Drama;Gus Van Sant;1997;126;0;26/12/2027 13:00;8,50
+P13;Blue Velvet;Drama;David Lynch;1986;120;12;26/12/2027 10:00;7,50
+P14;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;25/12/2027 22:00;10,00
+P15;Gandhi;Biography;Richard Attenborough;1982;191;0;25/12/2027 18:00;9,00
+P16;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;25/12/2027 14:30;7,00
+P17;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;25/12/2027 10:30;8,00
+P18;Misery;Drama;Rob Reiner;1990;107;16;24/12/2027 13:30;8,00
+P19;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;24/12/2027 10:30;8,50
+P20;The Hurricane;Biography;Norman Jewison;1999;146;16;23/12/2027 10:00;8,50
+P21;C.R.A.Z.Y.;Comedy;Jean-Marc Vallée;2005;129;12;22/12/2027 17:00;8,00
+P22;Misery;Drama;Rob Reiner;1990;107;16;22/12/2027 14:30;7,50
+P23;Veer-Zaara;Drama;Yash Chopra;2004;192;0;22/12/2027 10:30;7,50
+P24;Primal Fear;Crime;Gregory Hoblit;1996;129;12;21/12/2027 16:00;7,00
+P25;The Blues Brothers;Action;John Landis;1980;133;0;21/12/2027 13:00;8,00
+P26;Blue Velvet;Drama;David Lynch;1986;120;12;21/12/2027 10:00;7,50
+P27;Donnie Darko;Drama;Richard Kelly;2001;113;16;20/12/2027 13:30;7,00
+P28;Star Trek II: The Wrath of Khan;Action;Nicholas Meyer;1982;113;0;20/12/2027 10:30;8,00
+P29;The Silence of the Lambs;Crime;Jonathan Demme;1991;118;12;19/12/2027 16:00;7,50
+P30;Philadelphia;Drama;Jonathan Demme;1993;125;12;19/12/2027 13:00;8,50
+P31;Primal Fear;Crime;Gregory Hoblit;1996;129;12;19/12/2027 10:00;8,00
+P32;The Maltese Falcon;Film-Noir;John Huston;1941;100;12;18/12/2027 16:30;8,00
+P33;The Blues Brothers;Action;John Landis;1980;133;0;18/12/2027 13:30;8,00
+P34;C.R.A.Z.Y.;Comedy;Jean-Marc Vallée;2005;129;12;18/12/2027 10:30;6,50
+P35;Primal Fear;Crime;Gregory Hoblit;1996;129;12;17/12/2027 10:00;7,50
+P36;Cape Fear;Drama;J. Lee Thompson;1962;106;12;16/12/2027 15:00;8,00
+P37;Shichinin no samurai;Action;Akira Kurosawa;1954;207;0;16/12/2027 10:30;6,50
+P38;American Psycho;Comedy;Mary Harron;2000;101;12;15/12/2027 16:00;8,00
+P39;The Others;Horror;Alejandro Amenábar;2001;101;12;15/12/2027 13:30;8,00
+P40;Blue Velvet;Drama;David Lynch;1986;120;12;15/12/2027 10:30;7,50
+P41;Fight Club;Drama;David Fincher;1999;139;12;14/12/2027 10:30;6,50
+P42;American Psycho;Comedy;Mary Harron;2000;101;12;13/12/2027 15:30;6,50
+P43;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;13/12/2027 12:30;8,00
+P44;Kurenai no buta;Animation;Hayao Miyazaki;1992;94;0;13/12/2027 10:00;7,00
+P45;Shichinin no samurai;Action;Akira Kurosawa;1954;207;0;12/12/2027 18:00;8,50
+P46;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;12/12/2027 15:30;8,00
+P47;Withnail & I;Comedy;Bruce Robinson;1987;107;16;12/12/2027 13:00;6,50
+P48;The Maltese Falcon;Film-Noir;John Huston;1941;100;12;12/12/2027 10:30;8,00
+P49;Fight Club;Drama;David Fincher;1999;139;12;11/12/2027 19:00;10,00
+P50;Reservoir Dogs;Crime;Quentin Tarantino;1992;99;16;11/12/2027 16:30;8,50
+P51;Shichinin no samurai;Action;Akira Kurosawa;1954;207;0;11/12/2027 12:30;8,50
+P52;Eastern Promises;Action;David Cronenberg;2007;100;16;11/12/2027 10:00;6,50
+P53;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;10/12/2027 13:00;6,50
+P54;Cape Fear;Drama;J. Lee Thompson;1962;106;12;10/12/2027 10:30;7,00
+P55;Star Trek II: The Wrath of Khan;Action;Nicholas Meyer;1982;113;0;09/12/2027 10:00;8,00
+P56;Blue Velvet;Drama;David Lynch;1986;120;12;08/12/2027 10:00;6,50
+P57;Lat sau san taam;Action;John Woo;1992;128;16;07/12/2027 15:00;7,00
+P58;Eastern Promises;Action;David Cronenberg;2007;100;16;07/12/2027 12:30;6,50
+P59;Withnail & I;Comedy;Bruce Robinson;1987;107;16;07/12/2027 10:00;6,50
+P60;American Psycho;Comedy;Mary Harron;2000;101;12;06/12/2027 15:00;8,00
+P61;The Maltese Falcon;Film-Noir;John Huston;1941;100;12;06/12/2027 12:30;8,50
+P62;Eastern Promises;Action;David Cronenberg;2007;100;16;06/12/2027 10:00;7,00
+P63;American Psycho;Comedy;Mary Harron;2000;101;12;05/12/2027 20:00;8,50
+P64;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;05/12/2027 17:30;8,50
+P65;Giant;Drama;George Stevens;1956;201;0;05/12/2027 13:00;8,50
+P66;Mississippi Burning;Crime;Alan Parker;1988;128;12;05/12/2027 10:00;8,00
+P67;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;04/12/2027 15:30;6,50
+P68;Lat sau san taam;Action;John Woo;1992;128;16;04/12/2027 12:30;8,00
+P69;Cape Fear;Drama;J. Lee Thompson;1962;106;12;04/12/2027 10:00;8,00
+P70;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;03/12/2027 16:00;8,50
+P71;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;03/12/2027 13:30;7,50
+P72;Cool Hand Luke;Crime;Stuart Rosenberg;1967;127;12;03/12/2027 10:30;8,50
+P73;Giant;Drama;George Stevens;1956;201;0;02/12/2027 10:30;7,50
+P74;Blue Velvet;Drama;David Lynch;1986;120;12;01/12/2027 14:00;8,00
+P75;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;01/12/2027 10:00;8,00
+P76;Kurenai no buta;Animation;Hayao Miyazaki;1992;94;0;30/11/2027 13:30;6,50
+P77;Cool Hand Luke;Crime;Stuart Rosenberg;1967;127;12;30/11/2027 10:30;7,50
+P78;The Others;Horror;Alejandro Amenábar;2001;101;12;29/11/2027 13:30;7,00
+P79;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;29/11/2027 10:00;7,50
+P80;Mississippi Burning;Crime;Alan Parker;1988;128;12;28/11/2027 16:00;8,00
+P81;The Blues Brothers;Action;John Landis;1980;133;0;28/11/2027 13:00;8,00
+P82;Festen;Drama;Thomas Vinterberg;1998;105;16;28/11/2027 10:30;8,00
+P83;Cool Hand Luke;Crime;Stuart Rosenberg;1967;127;12;27/11/2027 20:00;10,00
+P84;The Blues Brothers;Action;John Landis;1980;133;0;27/11/2027 17:00;7,50
+P85;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;27/11/2027 13:30;6,50
+P86;The Blues Brothers;Action;John Landis;1980;133;0;27/11/2027 10:30;8,00
+P87;It Happened One Night;Comedy;Frank Capra;1934;105;12;26/11/2027 13:30;8,00
+P88;Sin City;Crime;Frank Miller;2005;124;12;26/11/2027 10:30;6,50
+P89;The Silence of the Lambs;Crime;Jonathan Demme;1991;118;12;25/11/2027 16:00;6,50
+P90;Tengoku to jigoku;Crime;Akira Kurosawa;1963;143;12;25/11/2027 12:30;8,00
+P91;It Happened One Night;Comedy;Frank Capra;1934;105;12;25/11/2027 10:00;7,00
+P92;The Ladykillers;Comedy;Alexander Mackendrick;1955;91;12;24/11/2027 16:00;6,50
+P93;Cape Fear;Drama;J. Lee Thompson;1962;106;12;24/11/2027 13:30;7,50
+P94;Aliens;Action;James Cameron;1986;137;0;24/11/2027 10:30;8,00
+P95;The Others;Horror;Alejandro Amenábar;2001;101;12;23/11/2027 12:30;6,50
+P96;Monsters, Inc.;Animation;Pete Docter;2001;92;0;23/11/2027 10:00;6,50
+P97;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;22/11/2027 10:30;7,50
+P98;The Hurricane;Biography;Norman Jewison;1999;146;16;21/11/2027 16:00;8,00
+P99;Platoon;Drama;Oliver Stone;1986;120;12;21/11/2027 13:00;8,50
+P100;Cool Hand Luke;Crime;Stuart Rosenberg;1967;127;12;21/11/2027 10:00;7,00
+P101;Aliens;Action;James Cameron;1986;137;0;20/11/2027 20:30;9,00
+P102;Jules et Jim;Drama;François Truffaut;1962;105;12;20/11/2027 18:00;10,00
+P103;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;20/11/2027 14:30;8,50
+P104;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;20/11/2027 10:30;7,00
+P105;The Hurricane;Biography;Norman Jewison;1999;146;16;19/11/2027 10:00;8,50
+P106;Scent of a Woman;Drama;Martin Brest;1992;156;12;18/11/2027 10:00;7,00
+P107;Giant;Drama;George Stevens;1956;201;0;17/11/2027 10:30;7,50
+P108;The Hurricane;Biography;Norman Jewison;1999;146;16;16/11/2027 16:00;7,00
+P109;Butch Cassidy and the Sundance Kid;Biography;George Roy Hill;1969;110;6;16/11/2027 13:00;7,50
+P110;The Others;Horror;Alejandro Amenábar;2001;101;12;16/11/2027 10:30;8,00
+P111;Monsters, Inc.;Animation;Pete Docter;2001;92;0;15/11/2027 17:00;8,00
+P112;The Long Goodbye;Comedy;Robert Altman;1973;112;12;15/11/2027 14:00;7,00
+P113;Fight Club;Drama;David Fincher;1999;139;12;15/11/2027 10:30;8,00
+P114;Platoon;Drama;Oliver Stone;1986;120;12;14/11/2027 15:30;7,00
+P115;Tengoku to jigoku;Crime;Akira Kurosawa;1963;143;12;14/11/2027 12:30;7,50
+P116;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;14/11/2027 10:00;6,50
+P117;Papurika;Animation;Satoshi Kon;2006;90;0;13/11/2027 18:30;9,50
+P118;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;13/11/2027 16:00;7,50
+P119;Platoon;Drama;Oliver Stone;1986;120;12;13/11/2027 13:00;7,00
+P120;Platoon;Drama;Oliver Stone;1986;120;12;13/11/2027 10:30;7,50
+P121;Blow;Biography;Ted Demme;2001;124;16;12/11/2027 13:30;8,00
+P122;Scent of a Woman;Drama;Martin Brest;1992;156;12;12/11/2027 10:00;7,00
+P123;Papurika;Animation;Satoshi Kon;2006;90;0;11/11/2027 13:00;8,00
+P124;Papurika;Animation;Satoshi Kon;2006;90;0;11/11/2027 10:30;6,50
+P125;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;10/11/2027 10:30;8,00
+P126;The Long Goodbye;Comedy;Robert Altman;1973;112;12;09/11/2027 13:00;7,00
+P127;Sin City;Crime;Frank Miller;2005;124;12;09/11/2027 10:00;7,00
+P128;Chinatown;Drama;Roman Polanski;1974;130;12;08/11/2027 13:00;7,00
+P129;Papurika;Animation;Satoshi Kon;2006;90;0;08/11/2027 10:30;8,50
+P130;Sherlock Jr.;Action;Buster Keaton;1924;45;12;07/11/2027 15:00;6,50
+P131;Annie Hall;Comedy;Woody Allen;1977;93;12;07/11/2027 12:30;8,00
+P132;Butch Cassidy and the Sundance Kid;Biography;George Roy Hill;1969;110;6;07/11/2027 10:00;7,50
+P133;Giant;Drama;George Stevens;1956;201;0;06/11/2027 19:30;9,00
+P134;Idi i smotri;Drama;Elem Klimov;1985;142;12;06/11/2027 16:00;8,00
+P135;Sin City;Crime;Frank Miller;2005;124;12;06/11/2027 13:00;6,50
+P136;Blow;Biography;Ted Demme;2001;124;16;06/11/2027 10:00;7,50
+P137;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;05/11/2027 10:30;8,00
+P138;Aliens;Action;James Cameron;1986;137;0;04/11/2027 10:30;8,00
+P139;Scent of a Woman;Drama;Martin Brest;1992;156;12;03/11/2027 10:30;7,00
+P140;Papurika;Animation;Satoshi Kon;2006;90;0;02/11/2027 13:30;6,50
+P141;Enemy at the Gates;Drama;Jean-Jacques Annaud;2001;131;12;02/11/2027 10:30;7,00
+P142;The Ladykillers;Comedy;Alexander Mackendrick;1955;91;12;01/11/2027 13:00;8,00
+P143;4 luni, 3 saptamâni si 2 zile;Drama;Cristian Mungiu;2007;113;12;01/11/2027 10:30;8,50
+P144;Sherlock Jr.;Action;Buster Keaton;1924;45;12;31/10/2027 17:00;6,50
+P145;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;31/10/2027 14:00;6,50
+P146;Scent of a Woman;Drama;Martin Brest;1992;156;12;31/10/2027 10:30;6,50
+P147;Monsters, Inc.;Animation;Pete Docter;2001;92;0;30/10/2027 17:00;8,00
+P148;Blow;Biography;Ted Demme;2001;124;16;30/10/2027 14:00;8,50
+P149;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;30/10/2027 10:30;7,50
+P150;Annie Hall;Comedy;Woody Allen;1977;93;12;29/10/2027 10:30;7,50
+P151;Tengoku to jigoku;Crime;Akira Kurosawa;1963;143;12;28/10/2027 15:00;7,50
+P152;Ivanovo detstvo;Drama;Andrei Tarkovsky;1962;95;12;28/10/2027 12:30;7,50
+P153;The Ladykillers;Comedy;Alexander Mackendrick;1955;91;12;28/10/2027 10:00;8,00
+P154;Donnie Brasco;Biography;Mike Newell;1997;127;12;27/10/2027 10:30;6,50
+P155;Zelig;Comedy;Woody Allen;1983;79;6;26/10/2027 10:00;8,50
+P156;No Country for Old Men;Crime;Ethan Coen;2007;122;16;25/10/2027 10:30;6,50
+P157;Annie Hall;Comedy;Woody Allen;1977;93;12;24/10/2027 19:30;9,50
+P158;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;24/10/2027 16:00;8,00
+P159;Butch Cassidy and the Sundance Kid;Biography;George Roy Hill;1969;110;6;24/10/2027 13:00;7,00
+P160;Butch Cassidy and the Sundance Kid;Biography;George Roy Hill;1969;110;6;24/10/2027 10:30;8,50
+P161;Adaptation.;Comedy;Spike Jonze;2002;115;16;23/10/2027 19:00;8,50
+P162;Blow;Biography;Ted Demme;2001;124;16;23/10/2027 16:00;7,00
+P163;No Country for Old Men;Crime;Ethan Coen;2007;122;16;23/10/2027 13:00;6,50
+P164;Platoon;Drama;Oliver Stone;1986;120;12;23/10/2027 10:00;7,50
+P165;Zelig;Comedy;Woody Allen;1983;79;6;22/10/2027 10:00;7,50
+P166;Adaptation.;Comedy;Spike Jonze;2002;115;16;21/10/2027 10:00;7,50
+P167;Chinatown;Drama;Roman Polanski;1974;130;12;20/10/2027 13:30;8,00
+P168;Aliens;Action;James Cameron;1986;137;0;20/10/2027 10:00;6,50
+P169;Monsters, Inc.;Animation;Pete Docter;2001;92;0;19/10/2027 13:30;7,00
+P170;Aliens;Action;James Cameron;1986;137;0;19/10/2027 10:30;8,50
+P171;The Best Years of Our Lives;Drama;William Wyler;1946;170;12;18/10/2027 10:30;8,50
+P172;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;17/10/2027 16:00;8,00
+P173;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;17/10/2027 13:00;6,50
+P174;Sunrise: A Song of Two Humans;Drama;F.W. Murnau;1927;94;12;17/10/2027 10:30;7,50
+P175;Platoon;Drama;Oliver Stone;1986;120;12;16/10/2027 16:30;7,00
+P176;Idi i smotri;Drama;Elem Klimov;1985;142;12;16/10/2027 13:30;6,50
+P177;Adaptation.;Comedy;Spike Jonze;2002;115;16;16/10/2027 10:30;6,50
+P178;Chinatown;Drama;Roman Polanski;1974;130;12;15/10/2027 13:00;8,00
+P179;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;15/10/2027 10:00;6,50
+P180;Sherlock Jr.;Action;Buster Keaton;1924;45;12;14/10/2027 10:30;6,50
+P181;Sunrise: A Song of Two Humans;Drama;F.W. Murnau;1927;94;12;13/10/2027 13:00;7,50
+P182;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;13/10/2027 10:00;6,50
+P183;Sunrise: A Song of Two Humans;Drama;F.W. Murnau;1927;94;12;12/10/2027 13:30;8,00
+P184;The Pianist;Biography;Roman Polanski;2002;150;16;12/10/2027 10:30;7,00
+P185;The Shop Around the Corner;Comedy;Ernst Lubitsch;1940;99;12;11/10/2027 13:00;7,50
+P186;The Lives of Others;Drama;Florian Henckel von Donnersmarck;2006;137;12;11/10/2027 10:00;7,50
+P187;Bound by Honor;Crime;Taylor Hackford;1993;180;16;10/10/2027 17:30;7,50
+P188;Falling Down;Action;Joel Schumacher;1993;113;16;10/10/2027 15:00;7,00
+P189;Sherlock Jr.;Action;Buster Keaton;1924;45;12;10/10/2027 13:30;8,50
+P190;Hauru no ugoku shiro;Animation;Hayao Miyazaki;2004;119;0;10/10/2027 10:30;8,00
+P191;Platoon;Drama;Oliver Stone;1986;120;12;09/10/2027 16:00;6,50
+P192;A Christmas Story;Comedy;Bob Clark;1983;93;0;09/10/2027 13:30;7,50
+P193;Amadeus;Biography;Milos Forman;1984;160;16;09/10/2027 10:00;8,00
+P194;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;08/10/2027 10:00;6,50
+P195;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;07/10/2027 10:30;6,50
+P196;As Good as It Gets;Comedy;James L. Brooks;1997;139;12;06/10/2027 14:00;7,00
+P197;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;06/10/2027 10:30;7,00
+P198;Black Hawk Down;Drama;Rid Ridley Scott;2001;144;12;05/10/2027 16:30;7,50
+P199;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;05/10/2027 14:00;8,50
+P200;Black Hawk Down;Drama;Ridley Scott;2001;144;12;05/10/2027 10:30;8,00
+P201;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;04/10/2027 10:30;6,50
+P202;4 luni, 3 saptamâni si 2 zile;Drama;Cristian Mungiu;2007;113;12;03/10/2027 17:00;7,00
+P203;Falling Down;Action;Joel Schumacher;1993;113;16;03/10/2027 14:00;7,00
+P204;As Good as It Gets;Comedy;James L. Brooks;1997;139;12;03/10/2027 10:30;8,00
+P205;Persona;Drama;Ingmar Bergman;1966;85;12;02/10/2027 19:30;9,00
+P206;The Lives of Others;Drama;Florian Henckel von Donnersmarck;2006;137;12;02/10/2027 16:30;8,50
+P207;Falling Down;Action;Joel Schumacher;1993;113;16;02/10/2027 13:30;8,50
+P208;As Good as It Gets;Comedy;James L. Brooks;1997;139;12;02/10/2027 10:30;8,00
+P209;Back to the Future Part II;Adventure;Robert Zemeckis;1989;108;0;01/10/2027 10:30;8,00
+P210;Falling Down;Action;Joel Schumacher;1993;113;16;30/09/2027 13:30;8,00
+P211;The Lives of Others;Drama;Florian Henckel von Donnersmarck;2006;137;12;30/09/2027 10:30;7,00
+P212;The Lives of Others;Drama;Florian Henckel von Donnersmarck;2006;137;12;29/09/2027 10:00;8,00
+P213;The King of Comedy;Comedy;Martin Scorsese;1982;109;0;28/09/2027 13:00;7,00
+P214;Le notti di Cabiria;Drama;Federico Fellini;1957;110;12;28/09/2027 10:00;7,00
+P215;Donnie Brasco;Biography;Mike Newell;1997;127;12;27/09/2027 10:00;7,00
+P216;The King of Comedy;Comedy;Martin Scorsese;1982;109;0;26/09/2027 19:00;9,50
+P217;Boogie Nights;Drama;Paul Thomas Anderson;1997;155;16;26/09/2027 15:30;7,00
+P218;Sleepers;Crime;Barry Levinson;1996;147;12;26/09/2027 12:30;6,50
+P219;Le notti di Cabiria;Drama;Federico Fellini;1957;110;12;26/09/2027 10:00;7,00
+P220;Enemy at the Gates;Drama;Jean-Jacques Annaud;2001;131;12;25/09/2027 15:30;7,50
+P221;Happiness;Comedy;Todd Solondz;1998;134;12;25/09/2027 12:30;8,50
+P222;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;25/09/2027 10:00;7,00
+P223;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;24/09/2027 10:30;7,00
+P224;Bronenosets Potemkin;Drama;Sergei M. Eisenstein;1925;75;12;23/09/2027 14:30;7,50
+P225;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;23/09/2027 12:00;7,00
+P226;Bronenosets Potemkin;Drama;Sergei M. Eisenstein;1925;75;12;23/09/2027 10:00;7,50
+P227;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;22/09/2027 15:30;8,00
+P228;It Happened One Night;Comedy;Frank Capra;1934;105;12;22/09/2027 13:00;6,50
+P229;The Shop Around the Corner;Comedy;Ernst Lubitsch;1940;99;12;22/09/2027 10:30;6,50
+P230;The Lives of Others;Drama;Florian Henckel von Donnersmarck;2006;137;12;21/09/2027 10:00;6,50
+P231;Bronenosets Potemkin;Drama;Sergei M. Eisenstein;1925;75;12;20/09/2027 15:00;8,50
+P232;Sunrise: A Song of Two Humans;Drama;F.W. Murnau;1927;94;12;20/09/2027 12:30;8,50
+P233;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;20/09/2027 10:00;7,50
+P234;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;19/09/2027 17:00;8,50
+P235;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;19/09/2027 14:30;8,00
+P236;Bound by Honor;Crime;Taylor Hackford;1993;180;16;19/09/2027 10:30;8,50
+P237;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;18/09/2027 18:30;10,00
+P238;Kal Ho Naa Ho;Comedy;Nikkhil Advani;2003;186;0;18/09/2027 14:30;8,50
+P239;Persona;Drama;Ingmar Bergman;1966;85;12;18/09/2027 12:30;7,50
+P240;Persona;Drama;Ingmar Bergman;1966;85;12;18/09/2027 10:30;8,50
+P241;Persona;Drama;Ingmar Bergman;1966;85;12;17/09/2027 15:00;6,50
+P242;The King of Comedy;Comedy;Martin Scorsese;1982;109;0;17/09/2027 12:30;7,50
+P243;Bronenosets Potemkin;Drama;Sergei M. Eisenstein;1925;75;12;17/09/2027 10:30;8,50
+P244;The King of Comedy;Comedy;Martin Scorsese;1982;109;0;16/09/2027 10:00;7,00
+P245;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;15/09/2027 16:30;8,00
+P246;Falling Down;Action;Joel Schumacher;1993;113;16;15/09/2027 13:30;7,50
+P247;Amadeus;Biography;Milos Forman;1984;160;16;15/09/2027 10:00;8,00
+P248;Harry Potter and the Sorcerer's Stone;Adventure;Chris Columbus;2001;152;0;14/09/2027 17:00;7,00
+P249;Falling Down;Action;Joel Schumacher;1993;113;16;14/09/2027 14:00;8,50
+P250;Kal Ho Naa Ho;Comedy;Nikkhil Advani;2003;186;0;14/09/2027 10:00;8,50
+P251;Jeux d'enfants;Comedy;Yann Samuell;2003;93;16;13/09/2027 10:00;8,00
+P252;Memento;Mystery;Christopher Nolan;2000;113;12;12/09/2027 16:00;7,50
+P253;The Others;Horror;Alejandro Amenábar;2001;101;12;12/09/2027 13:30;7,50
+P254;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;12/09/2027 10:30;8,50
+P255;The Pianist;Biography;Roman Polanski;2002;150;16;11/09/2027 16:30;7,50
+P256;Barry Lyndon;Adventure;Stanley Kubrick;1975;185;6;11/09/2027 12:30;8,00
+P257;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;11/09/2027 10:00;8,50
+P258;Falling Down;Action;Joel Schumacher;1993;113;16;10/09/2027 13:00;8,50
+P259;All That Jazz;Drama;Bob Fosse;1979;123;12;10/09/2027 10:00;6,50
+P260;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;09/09/2027 17:30;7,50
+P261;Sholay;Action;Ramesh Sippy;1975;204;0;09/09/2027 13:30;8,50
+P262;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;09/09/2027 10:30;8,00
+P263;Sleepers;Crime;Barry Levinson;1996;147;12;08/09/2027 17:00;8,00
+P264;Swades: We, the People;Drama;Ashutosh Gowariker;2004;210;0;08/09/2027 13:00;7,00
+P265;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;08/09/2027 10:30;7,00
+P266;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;07/09/2027 15:30;6,50
+P267;Star Wars: Episode VI - Return of the Jedi;Action;Richard Marquand;1983;131;0;07/09/2027 12:30;8,00
+P268;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;07/09/2027 10:00;8,50
+P269;All That Jazz;Drama;Bob Fosse;1979;123;12;06/09/2027 13:00;6,50
+P270;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;06/09/2027 10:00;8,50
+P271;Philadelphia;Drama;Jonathan Demme;1993;125;12;05/09/2027 21:30;10,00
+P272;The Killing Fields;Biography;Roland Joffé;1984;141;12;05/09/2027 18:00;9,50
+P273;My Fair Lady;Drama;George Cukor;1964;170;0;05/09/2027 14:30;8,00
+P274;Saving Private Ryan;Drama;Steven Spielberg;1998;169;16;05/09/2027 10:30;6,50
+P275;The Killing Fields;Biography;Roland Joffé;1984;141;12;04/09/2027 17:00;8,50
+P276;Fitzcarraldo;Adventure;Werner Herzog;1982;158;16;04/09/2027 13:30;8,50
+P277;All That Jazz;Drama;Bob Fosse;1979;123;12;04/09/2027 10:30;8,00
+P278;Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni;Animation;Hideaki Anno;1997;87;12;03/09/2027 16:30;6,50
+P279;All That Jazz;Drama;Bob Fosse;1979;123;12;03/09/2027 13:30;6,50
+P280;The Illusionist;Drama;Neil Burger;2006;110;0;03/09/2027 10:30;7,00
+P281;Sholay;Action;Ramesh Sippy;1975;204;0;02/09/2027 10:30;8,50
+P282;The Game;Action;David Fincher;1997;129;12;01/09/2027 10:30;7,50
+P283;Kurenai no buta;Animation;Hayao Miyazaki;1992;94;0;31/08/2027 13:00;7,00
+P284;Jeux d'enfants;Comedy;Yann Samuell;2003;93;16;31/08/2027 10:30;7,00
+P285;The Killing Fields;Biography;Roland Joffé;1984;141;12;30/08/2027 10:30;7,00
+P286;Kal Ho Naa Ho;Comedy;Nikkhil Advani;2003;186;0;29/08/2027 20:30;10,00
+P287;Fitzcarraldo;Adventure;Werner Herzog;1982;158;16;29/08/2027 17:00;8,50
+P288;Le notti di Cabiria;Drama;Federico Fellini;1957;110;12;29/08/2027 14:30;8,00
+P289;Sholay;Action;Ramesh Sippy;1975;204;0;29/08/2027 10:00;8,00
+P290;My Fair Lady;Drama;George Cukor;1964;170;0;28/08/2027 16:00;8,50
+P291;The Illusionist;Drama;Neil Burger;2006;110;0;28/08/2027 13:30;8,50
+P292;Le notti di Cabiria;Drama;Federico Fellini;1957;110;12;28/08/2027 10:30;7,50
+P293;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;27/08/2027 10:30;7,00
+P294;Sen to Chihiro no kamikakushi;Animation;Hayao Miyazaki;2001;125;0;26/08/2027 17:00;7,00
+P295;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;26/08/2027 14:00;6,50
+P296;Saving Private Ryan;Drama;Steven Spielberg;1998;169;16;26/08/2027 10:30;7,50
+P297;Le notti di Cabiria;Drama;Federico Fellini;1957;110;12;25/08/2027 15:30;6,50
+P298;Jeux d'enfants;Comedy;Yann Samuell;2003;93;16;25/08/2027 13:00;7,50
+P299;The Sixth Sense;Drama;M. Night Shyamalan;1999;107;12;25/08/2027 10:30;8,00
+P300;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;24/08/2027 13:00;6,50
+P301;Zelig;Comedy;Woody Allen;1983;79;6;24/08/2027 10:30;7,50
+P302;Gone with the Wind;Drama;Victor Fleming;1939;238;0;23/08/2027 13:00;6,50
+P303;Lat sau san taam;Action;John Woo;1992;128;16;23/08/2027 10:00;6,50
+P304;Sholay;Action;Ramesh Sippy;1975;204;0;22/08/2027 16:30;8,00
+P305;The Others;Horror;Alejandro Amenábar;2001;101;12;22/08/2027 14:00;7,50
+P306;Kal Ho Naa Ho;Comedy;Nikkhil Advani;2003;186;0;22/08/2027 10:00;8,50
+P307;Swades: We, the People;Drama;Ashutosh Gowariker;2004;210;0;21/08/2027 16:00;8,50
+P308;All That Jazz;Drama;Bob Fosse;1979;123;12;21/08/2027 13:00;6,50
+P309;All That Jazz;Drama;Bob Fosse;1979;123;12;21/08/2027 10:00;7,50
+P310;Jeux d'enfants;Comedy;Yann Samuell;2003;93;16;20/08/2027 10:00;6,50
+P311;Amadeus;Biography;Milos Forman;1984;160;16;19/08/2027 10:00;7,00
+P312;Sholay;Action;Ramesh Sippy;1975;204;0;18/08/2027 10:00;7,50
+P313;Der Name der Rose;Crime;Jean-Jacques Annaud;1986;130;16;17/08/2027 15:30;8,50
+P314;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;17/08/2027 13:00;8,50
+P315;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;17/08/2027 10:00;8,50
+P316;Jeux d'enfants;Comedy;Yann Samuell;2003;93;16;16/08/2027 13:30;7,00
+P317;Aliens;Action;James Cameron;1986;137;0;16/08/2027 10:30;6,50
+P318;The Killing Fields;Biography;Roland Joffé;1984;141;12;15/08/2027 18:00;9,00
+P319;8½;Drama;Federico Fellini;1963;138;12;15/08/2027 15:00;8,50
+P320;Sholay;Action;Ramesh Sippy;1975;204;0;15/08/2027 10:30;6,50
+P321;Indiana Jones and the Last Crusade;Action;Steven Spielberg;1989;127;0;14/08/2027 16:30;6,50
+P322;Fitzcarraldo;Adventure;Werner Herzog;1982;158;16;14/08/2027 13:00;8,50
+P323;Planet of the Apes;Adventure;Franklin J. Schaffner;1968;112;0;14/08/2027 10:00;8,00
+P324;Fitzcarraldo;Adventure;Werner Herzog;1982;158;16;13/08/2027 10:30;6,50
+P325;Gone with the Wind;Drama;Victor Fleming;1939;238;0;12/08/2027 10:30;7,50
+P326;Sholay;Action;Ramesh Sippy;1975;204;0;11/08/2027 16:00;6,50
+P327;Lat sau san taam;Action;John Woo;1992;128;16;11/08/2027 13:00;7,50
+P328;Casino Royale;Action;Martin Campbell;2006;144;12;11/08/2027 10:00;8,00
+P329;Indiana Jones and the Last Crusade;Action;Steven Spielberg;1989;127;0;10/08/2027 15:30;7,00
+P330;Lat sau san taam;Action;John Woo;1992;128;16;10/08/2027 12:30;8,50
+P331;Once;Drama;John Carney;2007;86;16;10/08/2027 10:30;7,00
+P332;Planet of the Apes;Adventure;Franklin J. Schaffner;1968;112;0;09/08/2027 16:30;6,50
+P333;Once;Drama;John Carney;2007;86;16;09/08/2027 14:00;7,50
+P334;Barry Lyndon;Adventure;Stanley Kubrick;1975;185;6;09/08/2027 10:00;8,00
+P335;The Others;Horror;Alejandro Amenábar;2001;101;12;08/08/2027 19:30;10,00
+P336;Saving Private Ryan;Drama;Steven Spielberg;1998;169;16;08/08/2027 16:00;8,50
+P337;Sen to Chihiro no kamikakushi;Animation;Hayao Miyazaki;2001;125;0;08/08/2027 13:00;7,50
+P338;The Treasure of the Sierra Madre;Adventure;John Huston;1948;126;12;08/08/2027 10:00;7,50
+P339;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;07/08/2027 19:30;8,50
+P340;Do lok tin si;Comedy;Kar-Wai Wong;1995;99;12;07/08/2027 17:00;8,50
+P341;Fitzcarraldo;Adventure;Werner Herzog;1982;158;16;07/08/2027 13:30;7,50
+P342;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;07/08/2027 10:00;6,50
+P343;Barry Lyndon;Adventure;Stanley Kubrick;1975;185;6;06/08/2027 13:00;8,00
+P344;Sen to Chihiro no kamikakushi;Animation;Hayao Miyazaki;2001;125;0;06/08/2027 10:00;7,50
+P345;Aliens;Action;James Cameron;1986;137;0;05/08/2027 10:30;7,00
+P346;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;04/08/2027 15:30;8,00
+P347;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;04/08/2027 13:00;7,00
+P348;Sen to Chihiro no kamikakushi;Animation;Hayao Miyazaki;2001;125;0;04/08/2027 10:00;7,50
+P349;Aliens;Action;James Cameron;1986;137;0;03/08/2027 16:30;8,00
+P350;The Killing Fields;Biography;Roland Joffé;1984;141;12;03/08/2027 13:30;6,50
+P351;Indiana Jones and the Last Crusade;Action;Steven Spielberg;1989;127;0;03/08/2027 10:30;7,00
+P352;The Muppet Movie;Adventure;James Frawley;1979;95;0;02/08/2027 10:30;8,00
+P353;Swades: We, the People;Drama;Ashutosh Gowariker;2004;210;0;01/08/2027 18:00;9,00
+P354;The Game;Action;David Fincher;1997;129;12;01/08/2027 15:00;7,00
+P355;Gone with the Wind;Drama;Victor Fleming;1939;238;0;01/08/2027 10:00;7,50
+P356;The Game;Action;David Fincher;1997;129;12;31/07/2027 19:30;9,00
+P357;The Game;Action;David Fincher;1997;129;12;31/07/2027 16:30;8,00
+P358;Fitzcarraldo;Adventure;Werner Herzog;1982;158;16;31/07/2027 13:00;7,00
+P359;Finding Neverland;Biography;Marc Forster;2004;106;0;31/07/2027 10:30;8,50
+P360;Aliens;Action;James Cameron;1986;137;0;30/07/2027 16:00;8,00
+P361;Interstate 60: Episodes of the Road;Adventure;Bob Gale;2002;116;16;30/07/2027 13:00;7,50
+P362;Control;Biography;Anton Corbijn;2007;122;16;30/07/2027 10:00;8,50
+P363;The Illusionist;Drama;Neil Burger;2006;110;0;29/07/2027 10:30;6,50
+P364;Star Wars: Episode VI - Return of the Jedi;Action;Richard Marquand;1983;131;0;28/07/2027 16:00;7,50
+P365;Interstate 60: Episodes of the Road;Adventure;Bob Gale;2002;116;16;28/07/2027 13:00;7,50
+P366;Finding Neverland;Biography;Marc Forster;2004;106;0;28/07/2027 10:30;7,50
+P367;Star Wars: Episode VI - Return of the Jedi;Action;Richard Marquand;1983;131;0;27/07/2027 10:00;8,00
+P368;Philadelphia;Drama;Jonathan Demme;1993;125;12;26/07/2027 10:30;6,50
+P369;Le locataire;Drama;Roman Polanski;1976;126;16;25/07/2027 19:30;8,50
+P370;Interstate 60: Episodes of the Road;Adventure;Bob Gale;2002;116;16;25/07/2027 16:30;8,00
+P371;The Game;Action;David Fincher;1997;129;12;25/07/2027 13:30;8,50
+P372;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;25/07/2027 10:30;7,50
+P373;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;24/07/2027 19:00;10,00
+P374;The Bridges of Madison County;Drama;Clint Eastwood;1995;135;12;24/07/2027 16:00;8,00
+P375;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;24/07/2027 13:00;8,50
+P376;Le locataire;Drama;Roman Polanski;1976;126;16;24/07/2027 10:00;8,50
+P377;The Birds;Drama;Alfred Hitchcock;1963;119;12;23/07/2027 14:30;7,00
+P378;Zelig;Comedy;Woody Allen;1983;79;6;23/07/2027 12:30;8,00
+P379;Toy Story 2;Animation;John Lasseter;1999;92;0;23/07/2027 10:00;8,00
+P380;Batman Begins;Action;Christopher Nolan;2005;140;12;22/07/2027 10:00;8,50
+P381;The Birds;Drama;Alfred Hitchcock;1963;119;12;21/07/2027 16:30;7,00
+P382;Interstate 60: Episodes of the Road;Adventure;Bob Gale;2002;116;16;21/07/2027 13:30;7,50
+P383;The Game;Action;David Fincher;1997;129;12;21/07/2027 10:30;8,50
+P384;Stand by Me;Adventure;Rob Reiner;1986;89;0;20/07/2027 15:30;6,50
+P385;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;20/07/2027 12:30;7,50
+P386;Finding Nemo;Animation;Andrew Stanton;2003;100;0;20/07/2027 10:00;8,00
+P387;Zelig;Comedy;Woody Allen;1983;79;6;19/07/2027 13:00;7,50
+P388;Ed Wood;Biography;Tim Burton;1994;127;0;19/07/2027 10:00;8,50
+P389;Zelig;Comedy;Woody Allen;1983;79;6;18/07/2027 17:00;7,50
+P390;Rio Bravo;Action;Howard Hawks;1959;141;12;18/07/2027 14:00;8,00
+P391;Planet of the Apes;Adventure;Franklin J. Schaffner;1968;112;0;17/07/2027 19:00;10,00
+P392;The Shawshank Redemption;Drama;Frank Darabont;1994;142;12;17/07/2027 16:00;8,50
+P393;Casino Royale;Action;Martin Campbell;2006;144;12;17/07/2027 13:00;7,50
+P394;Le locataire;Drama;Roman Polanski;1976;126;16;17/07/2027 10:00;6,50
+P395;Blazing Saddles;Comedy;Mel Brooks;1974;93;12;16/07/2027 10:30;6,50
+P396;Rocky;Drama;John G. Avildsen;1976;120;0;15/07/2027 12:30;7,50
+P397;Do lok tin si;Comedy;Kar-Wai Wong;1995;99;12;15/07/2027 10:00;8,50
+P398;Control;Biography;Anton Corbijn;2007;122;16;14/07/2027 10:30;8,00
+P399;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;13/07/2027 10:00;8,50
+P400;Ladri di biciclette;Drama;Vittorio De Sica;1948;89;12;12/07/2027 13:00;8,50
+P401;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;12/07/2027 10:00;8,00
+P402;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;11/07/2027 18:30;10,00
+P403;Det sjunde inseglet;Drama;Ingmar Bergman;1957;96;12;11/07/2027 16:00;7,50
+P404;Rio Bravo;Action;Howard Hawks;1959;141;12;11/07/2027 13:00;8,50
+P405;Lock, Stock and Two Smoking Barrels;Action;Guy Ritchie;1998;107;12;11/07/2027 10:30;7,00
+P406;The Birds;Drama;Alfred Hitchcock;1963;119;12;10/07/2027 19:00;9,50
+P407;Fantasia;Animation;James Algar;1940;125;0;10/07/2027 16:00;8,00
+P408;Interstate 60: Episodes of the Road;Adventure;Bob Gale;2002;116;16;10/07/2027 13:00;7,00
+P409;Happiness;Comedy;Todd Solondz;1998;134;12;10/07/2027 10:00;8,00
+P410;Who's Afraid of Virginia Woolf?;Drama;Mike Nichols;1966;131;12;09/07/2027 16:30;8,00
+P411;Ikiru;Drama;Akira Kurosawa;1952;143;12;09/07/2027 13:30;8,50
+P412;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;09/07/2027 10:00;8,00
+P413;Gone with the Wind;Drama;Victor Fleming;1939;238;0;08/07/2027 13:30;7,00
+P414;Casino Royale;Action;Martin Campbell;2006;144;12;08/07/2027 10:30;7,50
+P415;Interstate 60: Episodes of the Road;Adventure;Bob Gale;2002;116;16;07/07/2027 16:00;6,50
+P416;The Birds;Drama;Alfred Hitchcock;1963;119;12;07/07/2027 13:00;7,00
+P417;The Bridges of Madison County;Drama;Clint Eastwood;1995;135;12;07/07/2027 10:00;8,00
+P418;Happiness;Comedy;Todd Solondz;1998;134;12;06/07/2027 10:00;8,50
+P419;American Gangster;Biography;Ridley Scott;2007;157;12;05/07/2027 13:30;8,00
+P420;Fantasia;Animation;James Algar;1940;125;0;05/07/2027 10:30;7,00
+P421;Match Point;Drama;Woody Allen;2005;124;16;04/07/2027 18:00;10,00
+P422;The Illusionist;Drama;Neil Burger;2006;110;0;04/07/2027 15:00;7,50
+P423;Gone with the Wind;Drama;Victor Fleming;1939;238;0;04/07/2027 10:00;7,00
+P424;Toy Story 2;Animation;John Lasseter;1999;92;0;03/07/2027 19:00;8,50
+P425;Stand by Me;Adventure;Rob Reiner;1986;89;0;03/07/2027 16:30;6,50
+P426;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;03/07/2027 13:00;8,50
+P427;Batman Begins;Action;Christopher Nolan;2005;140;12;03/07/2027 10:00;8,50
+P428;Serenity;Action;Joss Whedon;2005;119;12;02/07/2027 13:30;8,50
+P429;Match Point;Drama;Woody Allen;2005;124;16;02/07/2027 10:30;6,50
+P430;Rocky;Drama;John G. Avildsen;1976;120;0;01/07/2027 10:00;8,50
+P431;The Muppet Movie;Adventure;James Frawley;1979;95;0;30/06/2027 13:00;6,50
+P432;Gongdong gyeongbi guyeok JSA;Action;Chan-wook Park;2000;110;12;30/06/2027 10:30;8,50
+P433;The Illusionist;Drama;Neil Burger;2006;110;0;29/06/2027 13:00;8,50
+P434;The Killing Fields;Biography;Roland Joffé;1984;141;12;29/06/2027 10:00;8,50
+P435;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;28/06/2027 16:00;8,00
+P436;Sleepers;Crime;Barry Levinson;1996;147;12;28/06/2027 13:00;7,00
+P437;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;28/06/2027 10:30;7,50
+P438;La montaña sagrada;Adventure;Alejandro Jodorowsky;1973;114;16;27/06/2027 18:30;10,00
+P439;American Gangster;Biography;Ridley Scott;2007;157;12;27/06/2027 15:00;6,50
+P440;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;27/06/2027 12:00;8,50
+P441;Stand by Me;Adventure;Rob Reiner;1986;89;0;27/06/2027 10:00;6,50
+P442;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;26/06/2027 19:30;8,50
+P443;Fantasia;Animation;James Algar;1940;125;0;26/06/2027 16:30;8,00
+P444;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;26/06/2027 13:00;8,00
+P445;Who's Afraid of Virginia Woolf?;Drama;Mike Nichols;1966;131;12;26/06/2027 10:00;7,00
+P446;Gongdong gyeongbi guyeok JSA;Action;Chan-wook Park;2000;110;12;25/06/2027 10:30;7,50
+P447;The Illusionist;Drama;Neil Burger;2006;110;0;24/06/2027 10:00;7,50
+P448;The Incredibles;Animation;Brad Bird;2004;115;0;23/06/2027 13:30;7,00
+P449;Match Point;Drama;Woody Allen;2005;124;16;23/06/2027 10:30;7,00
+P450;Enemy at the Gates;Drama;Jean-Jacques Annaud;2001;131;12;22/06/2027 10:30;6,50
+P451;Ladri di biciclette;Drama;Vittorio De Sica;1948;89;12;21/06/2027 13:00;7,50
+P452;Blazing Saddles;Comedy;Mel Brooks;1974;93;12;21/06/2027 10:30;7,00
+P453;Twelve Monkeys;Mystery;Terry Gilliam;1995;129;12;20/06/2027 18:30;10,00
+P454;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;20/06/2027 15:30;6,50
+P455;Det sjunde inseglet;Drama;Ingmar Bergman;1957;96;12;20/06/2027 13:00;6,50
+P456;Ed Wood;Biography;Tim Burton;1994;127;0;20/06/2027 10:00;7,50
+P457;Lost in Translation;Comedy;Sofia Coppola;2003;102;12;19/06/2027 18:00;9,50
+P458;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;19/06/2027 15:30;7,00
+P459;Happiness;Comedy;Todd Solondz;1998;134;12;19/06/2027 12:30;7,00
+P460;Blazing Saddles;Comedy;Mel Brooks;1974;93;12;19/06/2027 10:00;7,00
+P461;Happiness;Comedy;Todd Solondz;1998;134;12;18/06/2027 16:30;7,50
+P462;Rio Bravo;Action;Howard Hawks;1959;141;12;18/06/2027 13:30;7,50
+P463;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;18/06/2027 10:30;7,50
+P464;Gattaca;Drama;Andrew Niccol;1997;106;12;17/06/2027 14:00;7,50
+P465;Munna Bhai M.B.B.S.;Comedy;Rajkumar Hirani;2003;156;0;17/06/2027 10:30;7,00
+P466;Lost in Translation;Comedy;Sofia Coppola;2003;102;12;16/06/2027 10:30;8,00
+P467;Tombstone;Action;George P. Cosmatos;1993;130;16;15/06/2027 16:30;7,00
+P468;The Thin Red Line;Drama;Terrence Malick;1998;170;12;15/06/2027 12:30;7,00
+P469;The Illusionist;Drama;Neil Burger;2006;110;0;15/06/2027 10:00;7,00
+P470;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;14/06/2027 16:00;7,00
+P471;The Incredibles;Animation;Brad Bird;2004;115;0;14/06/2027 13:00;7,50
+P472;Match Point;Drama;Woody Allen;2005;124;16;14/06/2027 10:00;6,50
+P473;Munna Bhai M.B.B.S.;Comedy;Rajkumar Hirani;2003;156;0;13/06/2027 16:30;7,50
+P474;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;13/06/2027 14:00;8,50
+P475;The Thin Red Line;Drama;Terrence Malick;1998;170;12;13/06/2027 10:00;8,50
+P476;The Illusionist;Drama;Neil Burger;2006;110;0;12/06/2027 18:00;9,50
+P477;Lock, Stock and Two Smoking Barrels;Action;Guy Ritchie;1998;107;12;12/06/2027 15:30;8,50
+P478;Gattaca;Drama;Andrew Niccol;1997;106;12;12/06/2027 13:00;8,00
+P479;Rocky;Drama;John G. Avildsen;1976;120;0;12/06/2027 10:00;8,50
+P480;Enemy at the Gates;Drama;Jean-Jacques Annaud;2001;131;12;11/06/2027 10:30;8,50
+P481;Match Point;Drama;Woody Allen;2005;124;16;10/06/2027 10:30;7,00
+P482;The Killing Fields;Biography;Roland Joffé;1984;141;12;09/06/2027 16:00;7,50
+P483;Enemy at the Gates;Drama;Jean-Jacques Annaud;2001;131;12;09/06/2027 13:00;7,50
+P484;Gattaca;Drama;Andrew Niccol;1997;106;12;09/06/2027 10:30;7,50
+P485;La montaña sagrada;Adventure;Alejandro Jodorowsky;1973;114;16;08/06/2027 15:30;8,00
+P486;Lost in Translation;Comedy;Sofia Coppola;2003;102;12;08/06/2027 13:00;7,00
+P487;Happiness;Comedy;Todd Solondz;1998;134;12;08/06/2027 10:00;7,50
+P488;La montaña sagrada;Adventure;Alejandro Jodorowsky;1973;114;16;07/06/2027 16:00;7,50
+P489;The Bridges of Madison County;Drama;Clint Eastwood;1995;135;12;07/06/2027 13:00;6,50
+P490;Happiness;Comedy;Todd Solondz;1998;134;12;07/06/2027 10:00;8,00
+P491;La haine;Crime;Mathieu Kassovitz;1995;98;12;06/06/2027 15:30;8,00
+P492;Who's Afraid of Virginia Woolf?;Drama;Mike Nichols;1966;131;12;06/06/2027 12:30;7,00
+P493;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;06/06/2027 10:00;8,00
+P494;King Kong;Adventure;Merian C. Cooper;1933;100;12;05/06/2027 15:00;7,00
+P495;Dazed and Confused;Comedy;Richard Linklater;1993;102;0;05/06/2027 12:30;6,50
+P496;Stand by Me;Adventure;Rob Reiner;1986;89;0;05/06/2027 10:30;7,00
+P497;The Thin Red Line;Drama;Terrence Malick;1998;170;12;04/06/2027 16:00;7,50
+P498;Escape from Alcatraz;Action;Don Siegel;1979;112;12;04/06/2027 13:00;7,50
+P499;The Elephant Man;Biography;David Lynch;1980;124;12;04/06/2027 10:00;8,50
+P500;Happiness;Comedy;Todd Solondz;1998;134;12;03/06/2027 13:00;6,50
+P501;Det sjunde inseglet;Drama;Ingmar Bergman;1957;96;12;03/06/2027 10:30;8,50
+P502;Ikiru;Drama;Akira Kurosawa;1952;143;12;02/06/2027 16:30;6,50
+P503;Dazed and Confused;Comedy;Richard Linklater;1993;102;0;02/06/2027 14:00;6,50
+P504;The Thin Red Line;Drama;Terrence Malick;1998;170;12;02/06/2027 10:30;7,50
+P505;Ikiru;Drama;Akira Kurosawa;1952;143;12;01/06/2027 16:00;8,50
+P506;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;01/06/2027 13:30;7,00
+P507;Sleepers;Crime;Barry Levinson;1996;147;12;01/06/2027 10:00;6,50
+P508;Twelve Monkeys;Mystery;Terry Gilliam;1995;129;12;31/05/2027 13:00;6,50
+P509;Tropa de Elite;Action;José Padilha;2007;115;16;31/05/2027 10:00;7,50
+P510;Tropa de Elite;Action;José Padilha;2007;115;16;30/05/2027 16:00;8,00
+P511;First Blood;Action;Ted Kotcheff;1982;93;12;30/05/2027 13:30;8,00
+P512;Happiness;Comedy;Todd Solondz;1998;134;12;30/05/2027 10:30;7,00
+P513;North by Northwest;Adventure;Alfred Hitchcock;1959;136;0;29/05/2027 18:30;8,50
+P514;Lost in Translation;Comedy;Sofia Coppola;2003;102;12;29/05/2027 16:00;8,50
+P515;Munna Bhai M.B.B.S.;Comedy;Rajkumar Hirani;2003;156;0;29/05/2027 12:30;8,50
+P516;Gongdong gyeongbi guyeok JSA;Action;Chan-wook Park;2000;110;12;29/05/2027 10:00;8,50
+P517;Dazed and Confused;Comedy;Richard Linklater;1993;102;0;28/05/2027 13:00;8,50
+P518;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;28/05/2027 10:30;7,00
+P519;Badlands;Action;Terrence Malick;1973;94;6;27/05/2027 12:30;6,50
+P520;Badlands;Action;Terrence Malick;1973;94;6;27/05/2027 10:00;8,50
+P521;Mystic River;Crime;Clint Eastwood;2003;138;12;26/05/2027 13:00;7,00
+P522;Le scaphandre et le papillon;Biography;Julian Schnabel;2007;112;12;26/05/2027 10:30;7,00
+P523;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;25/05/2027 10:00;7,00
+P524;Who's Afraid of Virginia Woolf?;Drama;Mike Nichols;1966;131;12;24/05/2027 10:30;7,00
+P525;Heat;Crime;Michael Mann;1995;170;12;23/05/2027 17:30;7,00
+P526;The Last Samurai;Action;Edward Zwick;2003;154;12;23/05/2027 14:00;8,00
+P527;Cast Away;Adventure;Robert Zemeckis;2000;143;12;23/05/2027 10:30;6,50
+P528;First Blood;Action;Ted Kotcheff;1982;93;12;22/05/2027 16:30;7,00
+P529;Mystic River;Crime;Clint Eastwood;2003;138;12;22/05/2027 13:00;6,50
+P530;Snatch;Comedy;Guy Ritchie;2000;104;12;22/05/2027 10:30;7,00
+P531;Dazed and Confused;Comedy;Richard Linklater;1993;102;0;21/05/2027 12:30;6,50
+P532;Sunset Blvd.;Drama;Billy Wilder;1950;110;12;21/05/2027 10:00;8,00
+P533;Tombstone;Action;George P. Cosmatos;1993;130;16;20/05/2027 15:30;6,50
+P534;Tropa de Elite;Action;José Padilha;2007;115;16;20/05/2027 13:00;7,00
+P535;Dazed and Confused;Comedy;Richard Linklater;1993;102;0;20/05/2027 10:30;7,00
+P536;Braveheart;Biography;Mel Gibson;1995;178;12;19/05/2027 10:00;6,50
+P537;Gattaca;Drama;Andrew Niccol;1997;106;12;18/05/2027 15:00;8,50
+P538;Snatch;Comedy;Guy Ritchie;2000;104;12;18/05/2027 12:30;8,50
+P539;Badlands;Action;Terrence Malick;1973;94;6;18/05/2027 10:00;7,00
+P540;Brief Encounter;Drama;David Lean;1945;86;0;17/05/2027 14:00;7,50
+P541;The Lord of the Rings: The Two Towers;Action;Peter Jackson;2002;179;12;17/05/2027 10:00;8,00
+P542;First Blood;Action;Ted Kotcheff;1982;93;12;16/05/2027 18:30;8,50
+P543;King Kong;Adventure;Merian C. Cooper;1933;100;12;16/05/2027 16:00;7,50
+P544;All the President's Men;Biography;Alan J. Pakula;1976;138;0;16/05/2027 13:00;6,50
+P545;King Kong;Adventure;Merian C. Cooper;1933;100;12;16/05/2027 10:30;8,50
+P546;Tropa de Elite;Action;José Padilha;2007;115;16;15/05/2027 19:30;9,50
+P547;Heat;Crime;Michael Mann;1995;170;12;15/05/2027 16:00;8,50
+P548;La haine;Crime;Mathieu Kassovitz;1995;98;12;15/05/2027 13:30;8,00
+P549;Cast Away;Adventure;Robert Zemeckis;2000;143;12;15/05/2027 10:00;7,00
+P550;Twelve Monkeys;Mystery;Terry Gilliam;1995;129;12;14/05/2027 10:00;7,50
+P551;Mystic River;Crime;Clint Eastwood;2003;138;12;13/05/2027 10:30;6,50
+P552;All the President's Men;Biography;Alan J. Pakula;1976;138;0;12/05/2027 10:00;8,50
+P553;Rain Man;Drama;Barry Levinson;1988;133;0;11/05/2027 12:30;8,00
+P554;Fa yeung nin wah;Drama;Kar-Wai Wong;2000;98;0;11/05/2027 10:00;7,00
+P555;Dom za vesanje;Comedy;Emir Kusturica;1988;142;16;10/05/2027 12:30;6,50
+P556;First Blood;Action;Ted Kotcheff;1982;93;12;10/05/2027 10:00;8,00
+P557;Brief Encounter;Drama;David Lean;1945;86;0;09/05/2027 20:00;9,50
+P558;Dark City;Mystery;Alex Proyas;1998;100;12;09/05/2027 17:30;8,00
+P559;Dom za vesanje;Comedy;Emir Kusturica;1988;142;16;09/05/2027 14:30;7,50
+P560;Gandhi;Biography;Richard Attenborough;1982;191;0;09/05/2027 10:30;7,50
+P561;First Blood;Action;Ted Kotcheff;1982;93;12;08/05/2027 16:30;7,50
+P562;Vertigo;Mystery;Alfred Hitchcock;1958;128;12;08/05/2027 13:30;8,50
+P563;A Streetcar Named Desire;Drama;Elia Kazan;1951;122;12;08/05/2027 10:30;8,00
+P564;King Kong;Adventure;Merian C. Cooper;1933;100;12;07/05/2027 12:30;8,00
+P565;Escape from Alcatraz;Action;Don Siegel;1979;112;12;07/05/2027 10:00;6,50
+P566;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;06/05/2027 16:00;8,50
+P567;Cabaret;Drama;Bob Fosse;124;12;06/05/2027 13:00;8,00
+P568;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;06/05/2027 10:00;8,50
+P569;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;05/05/2027 10:00;8,50
+P570;Gandhi;Biography;Richard Attenborough;1982;191;0;04/05/2027 10:30;6,50
+P571;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;03/05/2027 10:00;6,50
+P572;Badlands;Action;Terrence Malick;1973;94;6;02/05/2027 21:00;8,50
+P573;Gandhi;Biography;Richard Attenborough;1982;191;0;02/05/2027 17:00;6,50
+P574;Heat;Crime;Michael Mann;1995;170;12;02/05/2027 13:00;7,00
+P575;Seppuku;Action;Masaki Kobayashi;1962;133;12;02/05/2027 10:00;7,50
+P576;Snatch;Comedy;Guy Ritchie;2000;104;12;01/05/2027 16:00;7,50
+P577;La haine;Crime;Mathieu Kassovitz;1995;98;12;01/05/2027 13:30;6,50
+P578;Heat;Crime;Michael Mann;1995;170;12;01/05/2027 10:00;7,00
+P579;The Red Shoes;Drama;Michael Powell;1948;135;12;30/04/2027 14:00;8,50
+P580;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;30/04/2027 10:00;7,50
+P581;Cast Away;Adventure;Robert Zemeckis;2000;143;12;29/04/2027 14:30;8,00
+P582;The Lord of the Rings: The Two Towers;Action;Peter Jackson;2002;179;12;29/04/2027 10:30;7,00
+P583;Duck Soup;Comedy;Leo McCarey;1933;69;12;28/04/2027 15:30;8,50
+P584;Cabaret;Drama;Bob Fosse;1972;124;12;28/04/2027 12:30;7,50
+P585;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;28/04/2027 10:00;8,00
+P586;Dom za vesanje;Comedy;Emir Kusturica;1988;142;16;27/04/2027 15:30;7,50
+P587;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;27/04/2027 13:00;7,50
+P588;Cowboy Bebop: Tengoku no tobira;Animation;Shin'ichirô Watanabe;2001;115;0;27/04/2027 10:30;6,50
+P589;Dà hóng denglong gaogao guà;Drama;Yimou Zhang;1991;125;6;26/04/2027 15:00;8,00
+P590;Escape from Alcatraz;Action;Don Siegel;1979;112;12;26/04/2027 12:00;8,50
+P591;Brief Encounter;Drama;David Lean;1945;86;0;26/04/2027 10:00;7,50
+P592;In a Lonely Place;Drama;Nicholas Ray;1950;94;12;25/04/2027 17:00;7,50
+P593;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;25/04/2027 13:00;8,50
+P594;Kakushi-toride no san-akunin;Adventure;Akira Kurosawa;1958;139;12;25/04/2027 10:00;8,00
+P595;Million Dollar Baby;Drama;Clint Eastwood;2004;132;12;24/04/2027 17:00;8,00
+P596;Cowboy Bebop: Tengoku no tobira;Animation;Shin'ichirô Watanabe;2001;115;0;24/04/2027 14:00;8,50
+P597;La dolce vita;Comedy;Federico Fellini;1960;174;12;24/04/2027 10:00;8,00
+P598;The Lord of the Rings: The Two Towers;Action;Peter Jackson;2002;179;12;23/04/2027 15:30;7,00
+P599;Jûbê ninpûchô;Animation;Yoshiaki Kawajiri;1993;94;12;23/04/2027 13:00;8,50
+P600;In a Lonely Place;Drama;Nicholas Ray;1950;94;12;23/04/2027 10:30;8,00
+P601;Fa yeung nin wah;Drama;Kar-Wai Wong;2000;98;0;22/04/2027 10:30;6,50
+P602;Mystic River;Crime;Clint Eastwood;2003;138;12;21/04/2027 10:30;8,00
+P603;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;20/04/2027 10:00;7,50
+P604;The Color Purple;Drama;Steven Spielberg;1985;154;0;19/04/2027 10:30;6,50
+P605;October Sky;Biography;Joe Johnston;1999;108;6;18/04/2027 18:00;10,00
+P606;In a Lonely Place;Drama;Nicholas Ray;1950;94;12;18/04/2027 15:30;8,00
+P607;Fa yeung nin wah;Drama;Kar-Wai Wong;2000;98;0;18/04/2027 13:00;8,50
+P608;Willy Wonka & the Chocolate Factory;Family;Mel Stuart;1971;100;0;18/04/2027 10:30;8,50
+P609;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;17/04/2027 19:00;10,00
+P610;La haine;Crime;Mathieu Kassovitz;1995;98;12;17/04/2027 16:30;8,00
+P611;The Man Who Shot Liberty Valance;Drama;John Ford;1962;123;12;17/04/2027 13:30;7,50
+P612;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;17/04/2027 10:30;8,50
+P613;The Lord of the Rings: The Two Towers;Action;Peter Jackson;2002;179;12;16/04/2027 15:00;8,00
+P614;Brief Encounter;Drama;David Lean;1945;86;0;16/04/2027 13:00;7,00
+P615;Seppuku;Action;Masaki Kobayashi;1962;133;12;16/04/2027 10:00;6,50
+P616;The Last Samurai;Action;Edward Zwick;2003;154;12;15/04/2027 15:30;8,50
+P617;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;15/04/2027 13:00;7,00
+P618;Mystic River;Crime;Clint Eastwood;2003;138;12;15/04/2027 10:00;8,50
+P619;October Sky;Biography;Joe Johnston;1999;108;6;14/04/2027 13:00;6,50
+P620;Cabaret;Drama;Bob Fosse;1972;124;12;14/04/2027 10:00;7,50
+P621;Lagaan: Once Upon a Time in India;Adventure;Ashutosh Gowariker;2001;224;0;13/04/2027 13:00;8,50
+P622;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;13/04/2027 10:30;7,50
+P623;Willy Wonka & the Chocolate Factory;Family;Mel Stuart;1971;100;0;12/04/2027 14:00;8,50
+P624;The Last Samurai;Action;Edward Zwick;2003;154;12;12/04/2027 10:30;6,50
+P625;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;11/04/2027 19:30;8,50
+P626;Kill Bill: Vol. 2;Action;Quentin Tarantino;2004;137;12;11/04/2027 16:00;6,50
+P627;Seppuku;Action;Masaki Kobayashi;1962;133;12;11/04/2027 13:00;7,50
+P628;La battaglia di Algeri;Drama;Gillo Pontecorvo;1966;121;12;11/04/2027 10:00;8,50
+P629;Persepolis;Animation;Vincent Paronnaud;2007;96;12;10/04/2027 17:30;8,50
+P630;Star Wars;Action;George Lucas;1977;121;12;10/04/2027 14:30;8,00
+P631;Lagaan: Once Upon a Time in India;Adventure;Ashutosh Gowariker;2001;224;0;10/04/2027 10:00;8,50
+P632;No Country for Old Men;Crime;Ethan Coen;2007;122;16;09/04/2027 13:30;6,50
+P633;Escape from Alcatraz;Action;Don Siegel;1979;112;12;09/04/2027 10:30;8,50
+P634;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;08/04/2027 13:30;8,50
+P635;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;08/04/2027 10:00;8,50
+P636;Dark City;Mystery;Alex Proyas;1998;100;12;07/04/2027 13:00;7,00
+P637;The Man Who Shot Liberty Valance;Drama;John Ford;1962;123;12;07/04/2027 10:00;8,00
+P638;October Sky;Biography;Joe Johnston;1999;108;6;06/04/2027 10:00;6,50
+P639;October Sky;Biography;Joe Johnston;1999;108;6;05/04/2027 10:00;7,00
+P640;Escape from Alcatraz;Action;Don Siegel;1979;112;12;04/04/2027 19:00;10,00
+P641;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;04/04/2027 16:00;8,50
+P642;Star Wars;Action;George Lucas;1977;121;12;04/04/2027 13:00;6,50
+P643;Kill Bill: Vol. 2;Action;Quentin Tarantino;2004;137;12;04/04/2027 10:00;7,50
+P644;The Man Who Shot Liberty Valance;Drama;John Ford;1962;123;12;03/04/2027 15:00;8,50
+P645;Persepolis;Animation;Vincent Paronnaud;2007;96;12;03/04/2027 12:30;8,00
+P646;October Sky;Biography;Joe Johnston;1999;108;6;03/04/2027 10:00;7,50
+P647;Lagaan: Once Upon a Time in India;Adventure;Ashutosh Gowariker;2001;224;0;02/04/2027 16:00;7,00
+P648;Star Wars;Action;George Lucas;1977;121;12;02/04/2027 13:00;7,50
+P649;Cowboy Bebop: Tengoku no tobira;Animation;Shin'ichirô Watanabe;2001;115;0;02/04/2027 10:30;7,50
+P650;Star Wars;Action;George Lucas;1977;121;12;01/04/2027 10:30;8,00
+P651;Kaze no tani no Naushika;Animation;Hayao Miyazaki;1984;117;0;31/03/2027 13:00;7,00
+P652;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;31/03/2027 10:00;6,50
+P653;Willy Wonka & the Chocolate Factory;Family;Mel Stuart;1971;100;0;30/03/2027 10:30;6,50
+P654;Million Dollar Baby;Drama;Clint Eastwood;2004;132;12;29/03/2027 16:30;6,50
+P655;October Sky;Biography;Joe Johnston;1999;108;6;29/03/2027 13:30;8,00
+P656;The Goonies;Adventure;Richard Donner;1985;114;0;29/03/2027 10:30;7,00
+P657;Persepolis;Animation;Vincent Paronnaud;2007;96;12;28/03/2027 16:30;7,50
+P658;The Red Shoes;Drama;Michael Powell;1948;135;12;28/03/2027 13:30;6,50
+P659;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;28/03/2027 10:00;8,50
+P660;My Cousin Vinny;Comedy;Jonathan Lynn;1992;120;12;27/03/2027 18:30;9,50
+P661;The Red Shoes;Drama;Michael Powell;1948;135;12;27/03/2027 15:30;6,50
+P662;Raging Bull;Biography;Martin Scorsese;1980;129;12;27/03/2027 12:30;6,50
+P663;Duck Soup;Comedy;Leo McCarey;1933;69;12;27/03/2027 10:30;7,50
+P664;La dolce vita;Comedy;Federico Fellini;1960;174;12;26/03/2027 13:00;8,50
+P665;The Great Dictator;Comedy;Charles Chaplin;1940;125;12;26/03/2027 10:00;8,00
+P666;Kaze no tani no Naushika;Animation;Hayao Miyazaki;1984;117;0;25/03/2027 12:30;7,50
+P667;The Goonies;Adventure;Richard Donner;1985;114;0;25/03/2027 10:00;8,50
+P668;All the President's Men;Biography;Alan J. Pakula;1976;138;0;24/03/2027 10:00;8,00
+P669;Duck Soup;Comedy;Leo McCarey;1933;69;12;23/03/2027 13:30;8,50
+P670;The Silence of the Lambs;Crime;Jonathan Demme;1991;118;12;23/03/2027 10:30;8,50
+P671;The Red Shoes;Drama;Michael Powell;1948;135;12;22/03/2027 18:00;9,00
+P672;Lagaan: Once Upon a Time in India;Adventure;Ashutosh Gowariker;2001;224;0;22/03/2027 13:30;7,00
+P673;The Silence of the Lambs;Crime;Jonathan Demme;1991;118;12;22/03/2027 10:30;8,50
+P674;Kill Bill: Vol. 2;Action;Quentin Tarantino;2004;137;12;21/03/2027 16:30;7,00
+P675;Citizen Kane;Drama;Orson Welles;1941;119;12;21/03/2027 13:30;6,50
+P676;Gegen die Wand;Drama;Fatih Akin;2004;121;16;21/03/2027 10:30;8,50
+P677;Raging Bull;Biography;Martin Scorsese;1980;129;12;20/03/2027 17:30;7,50
+P678;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;20/03/2027 13:30;7,00
+P679;Stalag 17;Comedy;Billy Wilder;1953;120;12;20/03/2027 10:30;8,50
+P680;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;19/03/2027 16:00;8,00
+P681;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;19/03/2027 13:30;7,50
+P682;Star Wars: Episode VI - Return of the Jedi;Action;Richard Marquand;1983;131;0;19/03/2027 10:30;6,50
+P683;All the President's Men;Biography;Alan J. Pakula;1976;138;0;18/03/2027 15:30;6,50
+P684;Kill Bill: Vol. 2;Action;Quentin Tarantino;2004;137;12;18/03/2027 12:30;7,00
+P685;Duck Soup;Comedy;Leo McCarey;1933;69;12;18/03/2027 10:30;7,00
+P686;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;17/03/2027 13:00;7,00
+P687;In the Heat of the Night;Crime;Norman Jewison;1967;110;0;17/03/2027 10:30;8,50
+P688;Duck Soup;Comedy;Leo McCarey;1933;69;12;16/03/2027 15:30;7,50
+P689;All the President's Men;Biography;Alan J. Pakula;1976;138;0;16/03/2027 12:30;8,00
+P690;Persepolis;Animation;Vincent Paronnaud;2007;96;12;16/03/2027 10:00;7,50
+P691;La planète sauvage;Animation;René Laloux;1973;72;0;15/03/2027 14:00;8,50
+P692;The Lord of the Rings: The Fellowship of the Ring;Action;Peter Jackson;2001;178;0;15/03/2027 10:30;8,50
+P693;All the President's Men;Biography;Alan J. Pakula;1976;138;0;14/03/2027 17:00;7,50
+P694;La dolce vita;Comedy;Federico Fellini;1960;174;12;14/03/2027 13:00;6,50
+P695;Close Encounters of the Third Kind;Drama;Steven Spielberg;1977;138;0;14/03/2027 10:00;8,00
+P696;All the President's Men;Biography;Alan J. Pakula;1976;138;0;13/03/2027 15:30;8,50
+P697;Stalag 17;Comedy;Billy Wilder;1953;120;12;13/03/2027 12:30;6,50
+P698;Le dîner de cons;Comedy;Francis Veber;1998;80;12;13/03/2027 10:30;8,00
+P699;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;12/03/2027 10:30;8,50
+P700;Taegukgi hwinalrimyeo;Action;Je-kyu Kang;2004;140;16;11/03/2027 16:00;8,00
+P701;Toki o kakeru shôjo;Animation;Mamoru Hosoda;2006;98;0;11/03/2027 13:30;7,00
+P702;Taegukgi hwinalrimyeo;Action;Je-kyu Kang;2004;140;16;11/03/2027 10:00;6,50
+P703;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;10/03/2027 15:30;8,50
+P704;Dial M for Murder;Crime;Alfred Hitchcock;1954;105;12;10/03/2027 13:00;6,50
+P705;Willy Wonka & the Chocolate Factory;Family;Mel Stuart;1971;100;0;10/03/2027 10:30;7,00
+P706;Escape from Alcatraz;Action;Don Siegel;1979;112;12;09/03/2027 10:30;7,00
+P707;Kaze no tani no Naushika;Animation;Hayao Miyazaki;1984;117;0;08/03/2027 15:00;7,00
+P708;La planète sauvage;Animation;René Laloux;1973;72;0;08/03/2027 13:00;7,00
+P709;Willy Wonka & the Chocolate Factory;Family;Mel Stuart;1971;100;0;08/03/2027 10:30;8,50
+P710;Dial M for Murder;Crime;Alfred Hitchcock;1954;105;12;07/03/2027 19:00;8,50
+P711;Life of Brian;Comedy;Terry Jones;1979;94;16;07/03/2027 16:30;7,00
+P712;The Goonies;Adventure;Richard Donner;1985;114;0;07/03/2027 13:30;6,50
+P713;La battaglia di Algeri;Drama;Gillo Pontecorvo;1966;121;12;07/03/2027 10:30;7,00
+P714;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;06/03/2027 15:30;7,50
+P715;La planète sauvage;Animation;René Laloux;1973;72;0;06/03/2027 13:30;7,50
+P716;Stalag 17;Comedy;Billy Wilder;1953;120;12;06/03/2027 10:30;8,50
+P717;Misery;Drama;Rob Reiner;1990;107;16;05/03/2027 10:00;8,50
+P718;After Hours;Comedy;Martin Scorsese;1985;97;12;04/03/2027 10:00;8,50
+P719;Kill Bill: Vol. 2;Action;Quentin Tarantino;2004;137;12;03/03/2027 15:00;8,00
+P720;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;03/03/2027 13:00;8,50
+P721;The Terminator;Action;James Cameron;1984;107;12;03/03/2027 10:00;7,50
+P722;Glory;Biography;Edward Zwick;1989;122;16;02/03/2027 15:00;7,50
+P723;The Goonies;Adventure;Richard Donner;1985;114;0;02/03/2027 12:30;7,00
+P724;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;02/03/2027 10:00;6,50
+P725;Willy Wonka & the Chocolate Factory;Family;Mel Stuart;1971;100;0;01/03/2027 10:00;6,50
+P726;The Lion King;Animation;Roger Allers;1994;88;0;28/02/2027 19:00;10,00
+P727;Inside Man;Crime;Spike Lee;2006;129;16;28/02/2027 16:00;6,50
+P728;Gegen die Wand;Drama;Fatih Akin;2004;121;16;28/02/2027 13:00;7,50
+P729;The Notebook;Drama;Nick Cassavetes;2004;123;12;28/02/2027 10:00;8,00
+P730;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;27/02/2027 15:30;7,00
+P731;Brazil;Drama;Terry Gilliam;1985;132;0;27/02/2027 12:30;8,00
+P732;Le dîner de cons;Comedy;Francis Veber;1998;80;12;27/02/2027 10:30;7,50
+P733;In the Heat of the Night;Crime;Norman Jewison;1967;110;0;26/02/2027 12:30;7,00
+P734;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;26/02/2027 10:00;7,50
+P735;Stardust;Adventure;Matthew Vaughn;2007;127;0;25/02/2027 10:00;7,50
+P736;The Jungle Book;Animation;Wolfgang Reitherman;1967;78;0;24/02/2027 10:00;7,00
+P737;The Outlaw Josey Wales;Western;Clint Eastwood;1976;135;12;23/02/2027 16:00;8,00
+P738;The Notebook;Drama;Nick Cassavetes;2004;123;12;23/02/2027 13:00;6,50
+P739;Glory;Biography;Edward Zwick;1989;122;16;23/02/2027 10:00;7,00
+P740;The Terminator;Action;James Cameron;1984;107;12;22/02/2027 10:00;7,00
+P741;Le dîner de cons;Comedy;Francis Veber;1998;80;12;21/02/2027 18:30;10,00
+P742;Le dîner de cons;Comedy;Francis Veber;1998;80;12;21/02/2027 16:30;8,00
+P743;Inside Man;Crime;Spike Lee;2006;129;16;21/02/2027 13:30;7,50
+P744;Gegen die Wand;Drama;Fatih Akin;2004;121;16;21/02/2027 10:30;8,00
+P745;La planète sauvage;Animation;René Laloux;1973;72;0;20/02/2027 19:30;9,00
+P746;Au revoir les enfants;Drama;Louis Malle;1987;104;0;20/02/2027 17:00;8,00
+P747;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;20/02/2027 13:00;6,50
+P748;The Terminator;Action;James Cameron;1984;107;12;20/02/2027 10:30;8,00
+P749;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;19/02/2027 12:30;7,50
+P750;The Terminator;Action;James Cameron;1984;107;12;19/02/2027 10:00;8,00
+P751;The Terminator;Action;James Cameron;1984;107;12;18/02/2027 12:00;6,50
+P752;Le dîner de cons;Comedy;Francis Veber;1998;80;12;18/02/2027 10:00;8,50
+P753;Glory;Biography;Edward Zwick;1989;122;16;17/02/2027 15:30;6,50
+P754;In the Heat of the Night;Crime;Norman Jewison;1967;110;0;17/02/2027 13:00;8,00
+P755;Stardust;Adventure;Matthew Vaughn;2007;127;0;17/02/2027 10:00;6,50
+P756;The Notebook;Drama;Nick Cassavetes;2004;123;12;16/02/2027 15:30;6,50
+P757;The Lion King;Animation;Roger Allers;1994;88;0;16/02/2027 13:00;7,00
+P758;Brazil;Drama;Terry Gilliam;1985;132;0;16/02/2027 10:00;7,00
+P759;Taegukgi hwinalrimyeo;Action;Je-kyu Kang;2004;140;16;15/02/2027 15:30;7,00
+P760;The Outlaw Josey Wales;Western;Clint Eastwood;1976;135;12;15/02/2027 12:30;7,00
+P761;Le dîner de cons;Comedy;Francis Veber;1998;80;12;15/02/2027 10:00;8,00
+P762;The Lion King;Animation;Roger Allers;1994;88;0;14/02/2027 18:00;10,00
+P763;My Cousin Vinny;Comedy;Jonathan Lynn;1992;120;12;14/02/2027 15:00;8,00
+P764;The Muppet Christmas Carol;Comedy;Brian Henson;1992;85;0;14/02/2027 12:30;7,00
+P765;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;14/02/2027 10:00;8,00
+P766;The Lion King;Animation;Roger Allers;1994;88;0;13/02/2027 17:30;8,00
+P767;Taegukgi hwinalrimyeo;Action;Je-kyu Kang;2004;140;16;13/02/2027 14:30;8,50
+P768;My Cousin Vinny;Comedy;Jonathan Lynn;1992;120;12;13/02/2027 12:00;6,50
+P769;Le dîner de cons;Comedy;Francis Veber;1998;80;12;13/02/2027 10:00;6,50
+P770;The Notebook;Drama;Nick Cassavetes;2004;123;12;12/02/2027 17:00;7,00
+P771;The Fifth Element;Action;Luc Besson;1997;126;12;12/02/2027 14:00;8,50
+P772;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;12/02/2027 10:00;7,50
+P773;Brazil;Drama;Terry Gilliam;1985;132;0;11/02/2027 13:00;8,00
+P774;The Odd Couple;Comedy;Gene Saks;1968;105;0;11/02/2027 10:30;7,00
+P775;Lawrence of Arabia;Adventure;David Lean;1962;228;0;10/02/2027 12:30;6,50
+P776;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;10/02/2027 10:00;8,50
+P777;Nueve reinas;Crime;Fabián Bielinsky;2000;114;16;09/02/2027 13:00;7,00
+P778;One Flew Over the Cuckoo's Nest;Drama;Milos Forman;1975;133;12;09/02/2027 10:00;8,00
+P779;In the Heat of the Night;Crime;Norman Jewison;1967;110;0;08/02/2027 14:00;6,50
+P780;Taegukgi hwinalrimyeo;Action;Je-kyu Kang;2004;140;16;07/02/2027 15:00;8,00
+P781;The Lion King;Animation;Roger Allers;1994;88;0;07/02/2027 12:30;8,50
+P782;A Hard Day's Night;Comedy;Richard Lester;1964;87;0;07/02/2027 10:30;6,50
+P783;Hedwig and the Angry Inch;Comedy;John Cameron Mitchell;2001;95;16;06/02/2027 18:00;8,50
+P784;Gegen die Wand;Drama;Fatih Akin;2004;121;16;06/02/2027 15:00;7,50
+P785;Lawrence of Arabia;Adventure;David Lean;1962;228;0;06/02/2027 10:30;7,00
+P786;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;05/02/2027 10:30;7,50
+P787;Lawrence of Arabia;Adventure;David Lean;1962;228;0;04/02/2027 15:00;7,00
+P788;Eastern Promises;Action;David Cronenberg;2007;100;16;04/02/2027 12:30;7,50
+P789;Au revoir les enfants;Drama;Louis Malle;1987;104;0;04/02/2027 10:00;8,50
+P790;Le dîner de cons;Comedy;Francis Veber;1998;80;12;03/02/2027 14:30;8,00
+P791;Lawrence of Arabia;Adventure;David Lean;1962;228;0;03/02/2027 10:00;8,00
+P792;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;02/02/2027 13:30;7,00
+P793;The Outlaw Josey Wales;Western;Clint Eastwood;1976;135;12;02/02/2027 10:30;8,00
+P794;Le dîner de cons;Comedy;Francis Veber;1998;80;12;01/02/2027 10:00;8,00
+P795;The Jungle Book;Animation;Wolfgang Reitherman;1967;78;0;31/01/2027 21:00;8,50
+P796;Ba wang bie ji;Drama;Kaige Chen;1993;171;16;31/01/2027 17:30;8,00
+P797;Lawrence of Arabia;Adventure;David Lean;1962;228;0;31/01/2027 13:00;8,50
+P798;Inside Man;Crime;Spike Lee;2006;129;16;31/01/2027 10:00;8,00
+P799;Chinatown;Drama;Roman Polanski;1974;130;12;30/01/2027 16:00;8,00
+P800;Chinatown;Drama;Roman Polanski;1974;130;12;30/01/2027 13:00;8,50
+P801;Gegen die Wand;Drama;Fatih Akin;2004;121;16;30/01/2027 10:00;8,00
+P802;Persona;Drama;Ingmar Bergman;1966;85;12;29/01/2027 12:30;7,00
+P803;Dial M for Murder;Crime;Alfred Hitchcock;1954;105;12;29/01/2027 10:00;8,50
+P804;Dial M for Murder;Crime;Alfred Hitchcock;1954;105;12;28/01/2027 15:00;7,50
+P805;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;28/01/2027 12:30;6,50
+P806;Le dîner de cons;Comedy;Francis Veber;1998;80;12;28/01/2027 10:00;8,00
+P807;Stalker;Drama;Andrei Tarkovsky;1979;162;0;27/01/2027 10:00;7,50
+P808;Walk the Line;Biography;James Mangold;2005;136;12;26/01/2027 12:00;8,00
+P809;Toy Story;Animation;John Lasseter;1995;81;0;26/01/2027 10:00;6,50
+P810;The Notebook;Drama;Nick Cassavetes;2004;123;12;25/01/2027 10:00;6,50
+P811;The Notebook;Drama;Nick Cassavetes;2004;123;12;24/01/2027 18:30;10,00
+P812;The Fifth Element;Action;Luc Besson;1997;126;12;24/01/2027 15:30;6,50
+P813;Inside Man;Crime;Spike Lee;2006;129;16;24/01/2027 12:30;6,50
+P814;Toy Story;Animation;John Lasseter;1995;81;0;24/01/2027 10:00;8,00
+P815;Hera Pheri;Action;Priyadarshan;2000;156;0;23/01/2027 16:30;8,50
+P816;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;23/01/2027 12:30;7,50
+P817;The Jungle Book;Animation;Wolfgang Reitherman;1967;78;0;23/01/2027 10:30;6,50
+P818;Kung fu;Action;Stephen Chow;2004;99;12;22/01/2027 12:30;8,00
+P819;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;22/01/2027 10:00;6,50
+P820;Night of the Living Dead;Horror;George A. Romero;1968;96;12;21/01/2027 10:00;6,50
+P821;Hamlet;Drama;Kenneth Branagh;1996;242;12;20/01/2027 13:00;6,50
+P822;Sunrise: A Song of Two Humans;Drama;F.W. Murnau;1927;94;12;20/01/2027 10:30;6,50
+P823;The Notebook;Drama;Nick Cassavetes;2004;123;12;19/01/2027 15:30;7,50
+P824;Au revoir les enfants;Drama;Louis Malle;1987;104;0;19/01/2027 13:00;7,50
+P825;The Notebook;Drama;Nick Cassavetes;2004;123;12;19/01/2027 10:00;7,00
+P826;The Gold Rush;Adventure;Charles Chaplin;1925;95;12;18/01/2027 16:30;6,50
+P827;The Notebook;Drama;Nick Cassavetes;2004;123;12;18/01/2027 13:30;7,00
+P828;The Fifth Element;Action;Luc Besson;1997;126;12;18/01/2027 10:30;8,00
+P829;Kung fu;Action;Stephen Chow;2004;99;12;17/01/2027 16:00;8,00
+P830;Hera Pheri;Action;Priyadarshan;2000;156;0;17/01/2027 12:30;8,50
+P831;Donnie Darko;Drama;Richard Kelly;2001;113;16;17/01/2027 10:00;6,50
+P832;Night of the Living Dead;Horror;George A. Romero;1968;96;12;16/01/2027 18:00;10,00
+P833;Dark City;Mystery;Alex Proyas;1998;100;12;16/01/2027 15:30;7,50
+P834;The Notebook;Drama;Nick Cassavetes;2004;123;12;16/01/2027 12:30;8,50
+P835;After Hours;Comedy;Martin Scorsese;1985;97;12;16/01/2027 10:00;7,00
+P836;One Flew Over the Cuckoo's Nest;Drama;Milos Forman;1975;133;12;15/01/2027 10:00;7,00
+P837;Hamlet;Drama;Kenneth Branagh;1996;242;12;14/01/2027 13:30;8,50
+P838;The Notebook;Drama;Nick Cassavetes;2004;123;12;14/01/2027 10:30;6,50
+P839;His Girl Friday;Comedy;Howard Hawks;1940;92;12;13/01/2027 13:00;7,50
+P840;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;13/01/2027 10:00;6,50
+P841;A Hard Day's Night;Comedy;Richard Lester;1964;87;0;12/01/2027 10:30;8,50
+P842;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;11/01/2027 15:30;8,00
+P843;The Fifth Element;Action;Luc Besson;1997;126;12;11/01/2027 12:30;8,50
+P844;Donnie Darko;Drama;Richard Kelly;2001;113;16;11/01/2027 10:00;8,50
+P845;The Big Lebowski;Comedy;Joel Coen;1998;117;16;10/01/2027 18:00;9,00
+P846;Sunrise: A Song of Two Humans;Drama;F.W. Murnau;1927;94;12;10/01/2027 15:30;8,00
+P847;Donnie Darko;Drama;Richard Kelly;2001;113;16;10/01/2027 13:00;8,00
+P848;Dark City;Mystery;Alex Proyas;1998;100;12;10/01/2027 10:30;7,00
+P849;Hamlet;Drama;Kenneth Branagh;1996;242;12;09/01/2027 16:00;7,00
+P850;Fantasia;Animation;James Algar;1940;125;0;09/01/2027 13:00;7,00
+P851;Dark City;Mystery;Alex Proyas;1998;100;12;09/01/2027 10:30;8,00
+P852;Nueve reinas;Crime;Fabián Bielinsky;2000;114;16;08/01/2027 10:00;7,00
+P853;The 39 Steps;Crime;Alfred Hitchcock;1935;86;12;07/01/2027 15:30;7,00
+P854;Nueve reinas;Crime;Fabián Bielinsky;2000;114;16;07/01/2027 13:00;8,50
+P855;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;07/01/2027 10:30;8,00
+P856;Det sjunde inseglet;Drama;Ingmar Bergman;1957;96;12;06/01/2027 10:30;7,50
+P857;Fantasia;Animation;James Algar;1940;125;0;05/01/2027 10:30;6,50
+P858;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;04/01/2027 10:30;8,00
+P859;Blow;Biography;Ted Demme;2001;124;16;03/01/2027 18:00;9,50
+P860;Nueve reinas;Crime;Fabián Bielinsky;2000;114;16;03/01/2027 15:00;7,50
+P861;High Noon;Drama;Fred Zinnemann;1952;85;6;03/01/2027 12:30;8,00
+P862;Adams æbler;Comedy;Anders Thomas Jensen;2005;94;16;03/01/2027 10:00;7,00
+P863;Tôkyô monogatari;Drama;Yasujirô Ozu;1953;136;0;02/01/2027 20:30;9,50
+P864;Eastern Promises;Action;David Cronenberg;2007;100;16;02/01/2027 18:00;8,50
+P865;Ba wang bie ji;Drama;Kaige Chen;1993;171;16;02/01/2027 14:00;7,00
+P866;Breaking the Waves;Drama;Lars von Trier;1996;159;16;02/01/2027 10:30;8,00
+P867;Adams æbler;Comedy;Anders Thomas Jensen;2005;94;16;01/01/2027 16:30;7,50
+P868;Nueve reinas;Crime;Fabián Bielinsky;2000;114;16;01/01/2027 14:00;8,00
+P869;Breaking the Waves;Drama;Lars von Trier;1996;159;16;01/01/2027 10:30;7,00
+P870;The Killing Fields;Biography;Roland Joffé;1984;141;12;31/12/2026 15:30;8,50
+P871;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;31/12/2026 12:30;8,00
+P872;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;31/12/2026 10:00;7,00
+P873;Pulp Fiction;Crime;Quentin Tarantino;1994;154;12;30/12/2026 17:00;7,50
+P874;One Flew Over the Cuckoo's Nest;Drama;Milos Forman;1975;133;12;30/12/2026 14:00;8,50
+P875;Breaking the Waves;Drama;Lars von Trier;1996;159;16;30/12/2026 10:30;8,50
+P876;Stalker;Drama;Andrei Tarkovsky;1979;162;0;29/12/2026 13:00;8,00
+P877;Kung fu;Action;Stephen Chow;2004;99;12;29/12/2026 10:30;6,50
+P878;The Day of the Jackal;Crime;Fred Zinnemann;1973;143;12;28/12/2026 15:30;8,50
+P879;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;28/12/2026 12:30;7,00
+P880;Sanjuro;Action;Akira Kurosawa;1962;96;0;28/12/2026 10:00;6,50
+P881;Kung fu;Action;Stephen Chow;2004;99;12;27/12/2026 16:00;8,00
+P882;Pirates of the Caribbean: The Curse of the Black Pearl;Action;Gore Verbinski;2003;143;12;27/12/2026 13:00;7,00
+P883;His Girl Friday;Comedy;Howard Hawks;1940;92;12;27/12/2026 10:30;7,00
+P884;Bringing Up Baby;Comedy;Howard Hawks;1938;102;12;26/12/2616 16:00;8,50
+P885;Rear Window;Mystery;Alfred Hitchcock;1954;112;0;26/12/2026 13:00;8,50
+P886;Harold and Maude;Comedy;Hal Ashby;1971;91;6;26/12/2026 10:30;7,00
+P887;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;25/12/2026 15:30;7,00
+P888;The Fifth Element;Action;Luc Besson;1997;126;12;25/12/2026 12:30;6,50
+P889;Planes, Trains & Automobiles;Comedy;John Hughes;1987;93;0;25/12/2026 10:00;8,00
+P890;The Little Mermaid;Animation;Ron Clements;1989;83;0;24/12/2026 10:00;7,50
+P891;Toy Story;Animation;John Lasseter;1995;81;0;23/12/2026 10:30;7,50
+P892;The Princess Bride;Adventure;Rob Reiner;1987;98;0;22/12/2026 10:30;6,50
+P893;Brazil;Drama;Terry Gilliam;1985;132;0;21/12/2026 15:30;8,00
+P894;The Princess Bride;Adventure;Rob Reiner;1987;98;0;21/12/2026 13:00;7,50
+P895;The Untouchables;Crime;Brian De Palma;1987;119;12;21/12/2026 10:00;8,50
+P896;The Untouchables;Crime;Brian De Palma;1987;119;12;20/12/2026 16:30;7,00
+P897;Le charme discret de la bourgeoisie;Comedy;Luis Buñuel;1972;102;6;20/12/2026 14:00;8,50
+P898;Giant;Drama;George Stevens;1956;201;0;20/12/2026 10:00;6,50
+P899;Giant;Drama;George Stevens;1956;201;0;19/12/2026 17:30;6,50
+P900;The Little Mermaid;Animation;Ron Clements;1989;83;0;19/12/2026 15:00;7,00
+P901;Once Upon a Time in America;Crime;Sergio Leone;1984;229;12;19/12/2026 10:30;7,00
+P902;Toy Story;Animation;John Lasseter;1995;81;0;18/12/2026 16:30;6,50
+P903;Tôkyô monogatari;Drama;Yasujirô Ozu;1953;136;0;18/12/2026 13:30;7,00
+P904;The Day of the Jackal;Crime;Fred Zinnemann;1973;143;12;18/12/2026 10:00;8,50
+P905;This Is England;Crime;Shane Meadows;2006;101;12;17/12/2026 16:30;6,50
+P906;Rear Window;Mystery;Alfred Hitchcock;1954;112;0;17/12/2026 13:30;8,00
+P907;The Untouchables;Crime;Brian De Palma;1987;119;12;17/12/2026 10:30;8,00
+P908;Stand by Me;Adventure;Rob Reiner;1986;89;0;16/12/2026 12:30;7,50
+P909;Det sjunde inseglet;Drama;Ingmar Bergman;1957;96;12;16/12/2026 10:00;8,00
+P910;Toy Story;Animation;John Lasseter;1995;81;0;15/12/2026 10:00;8,50
+P911;Sanjuro;Action;Akira Kurosawa;1962;96;0;14/12/2026 14:00;8,00
+P912;The Lives of Others;Drama;Florian Henckel von Donnersmarck;2006;137;12;14/12/2026 10:30;6,50
+P913;This Is England;Crime;Shane Meadows;2006;101;12;13/12/2026 21:30;9,00
+P914;Pulp Fiction;Crime;Quentin Tarantino;1994;154;12;13/12/2026 18:00;10,00
+P915;The Killing Fields;Biography;Roland Joffé;1984;141;12;13/12/2026 15:00;8,00
+P916;Once Upon a Time in America;Crime;Sergio Leone;1984;229;12;13/12/2026 10:30;7,00
+P917;The Little Mermaid;Animation;Ron Clements;1989;83;0;12/12/2026 15:30;6,50
+P918;Donnie Darko;Drama;Richard Kelly;2001;113;16;12/12/2026 12:30;6,50
+P919;Psycho;Horror;Alfred Hitchcock;1960;109;12;12/12/2026 10:00;8,00
+P920;The Little Mermaid;Animation;Ron Clements;1989;83;0;11/12/2026 10:00;7,00
+P921;Blow;Biography;Ted Demme;2001;124;16;10/12/2026 16:30;8,50
+P922;Das Experiment;Drama;Oliver Hirschbiegel;2001;120;16;10/12/2026 13:30;8,50
+P923;Stalker;Drama;Andrei Tarkovsky;1979;162;0;10/12/2026 10:00;7,00
+P924;Harry Potter and the Sorcerer's Stone;Adventure;Chris Columbus;2001;152;0;09/12/2026 15:30;7,00
+P925;The Lost Weekend;Drama;Billy Wilder;1945;101;12;09/12/2026 13:00;7,00
+P926;Hannah and Her Sisters;Comedy;Woody Allen;1986;107;12;09/12/2026 10:30;7,50
+P927;Stalker;Drama;Andrei Tarkovsky;1979;162;0;08/12/2026 15:30;8,00
+P928;Das Experiment;Drama;Oliver Hirschbiegel;2001;120;16;08/12/2026 13:00;7,50
+P929;Psycho;Horror;Alfred Hitchcock;1960;109;12;08/12/2026 10:00;7,50
+P930;Bringing Up Baby;Comedy;Howard Hawks;1938;102;12;07/12/2026 12:30;8,00
+P931;Stand by Me;Adventure;Rob Reiner;1986;89;0;07/12/2026 10:00;8,50
+P932;Once Upon a Time in America;Crime;Sergio Leone;1984;229;12;06/12/2026 16:30;7,00
+P933;The Day of the Jackal;Crime;Fred Zinnemann;1973;143;12;06/12/2026 13:00;6,50
+P934;Salinui chueok;Crime;Bong Joon Ho;2003;131;12;06/12/2026 10:00;8,00
+P935;Donnie Darko;Drama;Richard Kelly;2001;113;16;05/12/2026 17:00;6,50
+P936;Le charme discret de la bourgeoisie;Comedy;Luis Buñuel;1972;102;6;05/12/2026 14:30;7,00
+P937;Once Upon a Time in America;Crime;Sergio Leone;1984;229;12;05/12/2026 10:00;6,50
+P938;Breaking the Waves;Drama;Lars von Trier;1996;159;16;04/12/2026 10:00;8,00
+P939;Smultronstället;Drama;Ingmar Bergman;1957;91;0;03/12/2026 10:00;7,00
+P940;Notorious;Drama;Alfred Hitchcock;1946;102;0;02/12/2026 15:30;8,00
+P941;The Exorcist;Horror;William Friedkin;1973;122;12;02/12/2026 12:30;6,50
+P942;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;02/12/2026 10:00;7,50
+P943;Stand by Me;Adventure;Rob Reiner;1986;89;0;01/12/2026 12:30;6,50
+P944;Psycho;Horror;Alfred Hitchcock;1960;109;12;01/12/2026 10:00;6,50
+P945;Dawn of the Dead;Action;George A. Romero;1978;127;12;30/11/2026 12:30;8,00
+P946;Planes, Trains & Automobiles;Comedy;John Hughes;1987;93;0;30/11/2026 10:00;7,00
+P947;The Lost Weekend;Drama;Billy Wilder;1945;101;12;29/11/2026 15:30;6,50
+P948;Le charme discret de la bourgeoisie;Comedy;Luis Buñuel;1972;102;6;29/11/2026 13:00;7,50
+P949;Office Space;Comedy;Mike Judge;1999;89;16;29/11/2026 10:30;6,50
+P950;The Exorcist;Horror;William Friedkin;1973;122;12;28/11/2026 19:00;8,50
+P951;Shrek;Animation;Andrew Adamson;2001;90;0;28/11/2026 16:30;7,00
+P952;Shrek;Animation;Andrew Adamson;2001;90;0;28/11/2026 14:00;8,50
+P953;Breaking the Waves;Drama;Lars von Trier;1996;159;16;28/11/2026 10:30;8,50
+P954;Le charme discret de la bourgeoisie;Comedy;Luis Buñuel;1972;102;6;27/11/2026 10:00;7,00
+P955;Dogville;Crime;Lars von Trier;2003;178;16;26/11/2026 10:30;7,50
+P956;The Little Mermaid;Animation;Ron Clements;1989;83;0;25/11/2026 12:30;8,50
+P957;Sanjuro;Action;Akira Kurosawa;1962;96;0;25/11/2026 10:00;7,00
+P958;The Day of the Jackal;Crime;Fred Zinnemann;1973;143;12;24/11/2026 10:00;6,50
+P959;The Kid;Comedy;Charles Chaplin;1921;68;12;23/11/2026 10:30;7,00
+P960;Salinui chueok;Crime;Bong Joon Ho;2003;131;12;22/11/2026 16:30;8,50
+P961;The Killing Fields;Biography;Roland Joffé;1984;141;12;22/11/2026 13:30;8,00
+P962;Harry Potter and the Sorcerer's Stone;Adventure;Chris Columbus;2001;152;0;22/11/2026 10:00;8,50
+P963;Rang De Basanti;Comedy;Rakeysh Omprakash Mehra;2006;167;12;21/11/2026 16:30;7,00
+P964;L.A. Confidential;Crime;Curtis Hanson;1997;138;12;21/11/2026 13:30;8,00
+P965;Dead Man;Adventure;Jim Jarmusch;1995;121;16;21/11/2026 10:30;7,00
+P966;Once Upon a Time in America;Crime;Sergio Leone;1984;229;12;20/11/2026 15:30;8,00
+P967;Hana-bi;Crime;Takeshi Kitano;1997;103;12;20/11/2026 13:00;7,00
+P968;Sanjuro;Action;Akira Kurosawa;1962;96;0;20/11/2026 10:30;6,50
+P969;Gilda;Drama;Charles Vidor;1946;110;12;19/11/2026 10:00;7,50
+P970;The 39 Steps;Crime;Alfred Hitchcock;1935;86;12;18/11/2026 12:30;7,50
+P971;Double Indemnity;Crime;Billy Wilder;1944;107;12;18/11/2026 10:00;8,50
+P972;L.A. Confidential;Crime;Curtis Hanson;1997;138;12;17/11/2026 16:00;7,50
+P973;Trois couleurs: Bleu;Drama;Krzysztof Kieslowski;1993;94;0;17/11/2026 13:30;8,50
+P974;Dancer in the Dark;Crime;Lars von Trier;2000;140;0;17/11/2026 10:30;8,00
+P975;Shrek;Animation;Andrew Adamson;2001;90;0;16/11/2026 16:00;8,50
+P976;Giù la testa;Drama;Sergio Leone;1971;157;6;16/11/2026 12:30;8,00
+P977;Stand by Me;Adventure;Rob Reiner;1986;89;0;16/11/2026 10:30;7,50
+P978;Hana-bi;Crime;Takeshi Kitano;1997;103;12;15/11/2026 15:30;7,00
+P979;Shrek;Animation;Andrew Adamson;2001;90;0;15/11/2026 13:00;8,00
+P980;Goodfellas;Biography;Martin Scorsese;1990;146;12;15/11/2026 10:00;6,50
+P981;Goodfellas;Biography;Martin Scorsese;1990;146;12;14/11/2026 17:00;8,50
+P982;Dogville;Crime;Lars von Trier;2003;178;16;14/11/2026 13:00;7,50
+P983;Majo no takkyûbin;Animation;Hayao Miyazaki;1989;103;0;14/11/2026 10:30;6,50
+P984;Majo no takkyûbin;Animation;Hayao Miyazaki;1989;103;0;13/11/2026 12:30;7,00
+P985;Smultronstället;Drama;Ingmar Bergman;1957;91;0;13/11/2026 10:00;6,50
+P986;Dà hóng denglong gaogao guà;Drama;Yimou Zhang;1991;125;6;12/11/2026 10:00;7,50
+P987;Toy Story 2;Animation;John Lasseter;1999;92;0;11/11/2026 10:30;7,00
+P988;Dà hóng denglong gaogao guà;Drama;Yimou Zhang;1991;125;6;10/11/2026 12:30;7,50
+P989;The Station Agent;Comedy;Tom McCarthy;2003;89;16;10/11/2026 10:00;6,50
+P990;Gilda;Drama;Charles Vidor;1946;110;12;09/11/2026 10:30;8,50
+P991;Per un pugno di dollari;Action;Sergio Leone;1964;99;12;08/11/2026 18:00;9,50
+P992;Giù la testa;Drama;Sergio Leone;1971;157;6;08/11/2026 14:30;6,50
+P993;The 39 Steps;Crime;Alfred Hitchcock;1935;86;12;08/11/2026 12:30;8,50
+P994;The 39 Steps;Crime;Alfred Hitchcock;1935;86;12;08/11/2026 10:00;8,00
+P995;The King of Comedy;Comedy;Martin Scorsese;1982;109;0;07/11/2026 19:00;9,50
+P996;V for Vendetta;Action;James McTeigue;2005;132;12;07/11/2026 16:00;7,50
+P997;Brazil;Drama;Terry Gilliam;1985;132;0;07/11/2026 13:00;7,50
+P998;Dà hóng denglong gaogao guà;Drama;Yimou Zhang;1991;125;6;07/11/2026 10:00;7,50
+P999;Dancer in the Dark;Crime;Lars von Trier;2000;140;0;06/11/2026 15:00;8,00
+P1000;The 39 Steps;Crime;Alfred Hitchcock;1935;86;12;06/11/2026 12:30;8,00
+P1001;The Kid;Comedy;Charles Chaplin;1921;68;12;06/11/2026 10:30;7,00
+P1002;Annie Hall;Comedy;Woody Allen;1977;93;12;05/11/2026 10:00;8,50
+P1003;Dead Man;Adventure;Jim Jarmusch;1995;121;16;04/11/2026 10:00;8,50
+P1004;Laura;Drama;Otto Preminger;1944;88;12;03/11/2026 10:00;7,00
+P1005;Notorious;Drama;Alfred Hitchcock;1946;102;0;02/11/2026 13:00;6,50
+P1006;Shrek;Animation;Andrew Adamson;2001;90;0;02/11/2026 10:30;8,50
+P1007;Brazil;Drama;Terry Gilliam;1985;132;0;01/11/2026 18:30;9,00
+P1008;Majo no takkyûbin;Animation;Hayao Miyazaki;1989;103;0;01/11/2026 16:00;8,00
+P1009;Dead Man;Adventure;Jim Jarmusch;1995;121;16;01/11/2026 13:00;8,50
+P1010;Shrek;Animation;Andrew Adamson;2001;90;0;01/11/2026 10:30;8,00
+P1011;All About Eve;Drama;Joseph L. Mankiewicz;1950;138;12;31/10/2026 18:00;9,00
+P1012;Toy Story 2;Animation;John Lasseter;1999;92;0;31/10/2026 15:30;8,50
+P1013;Hana-bi;Crime;Takeshi Kitano;1997;103;12;31/10/2026 13:00;6,50
+P1014;The Day the Earth Stood Still;Drama;Robert Wise;1951;92;0;31/10/2026 10:30;8,50
+P1015;V for Vendetta;Action;James McTeigue;2005;132;12;30/10/2026 10:30;7,00
+P1016;The Station Agent;Comedy;Tom McCarthy;2003;89;16;29/10/2026 10:30;7,50
+P1017;Gilda;Drama;Charles Vidor;1946;110;12;28/10/2026 10:30;8,50
+P1018;Dancer in the Dark;Crime;Lars von Trier;2000;140;0;27/10/2026 16:00;7,50
+P1019;Toy Story 2;Animation;John Lasseter;1999;92;0;27/10/2026 13:30;8,50
+P1020;Dip huet seung hung;Action;John Woo;1989;111;16;27/10/2026 10:30;8,50
+P1021;Giù la testa;Drama;Sergio Leone;1971;157;6;26/10/2026 16:30;8,00
+P1022;Blow;Biography;Ted Demme;2001;124;16;26/10/2026 13:30;8,00
+P1023;Brazil;Drama;Terry Gilliam;1985;132;0;26/10/2026 10:30;8,50
+P1024;Dancer in the Dark;Crime;Lars von Trier;2000;140;0;25/10/2026 15:00;7,50
+P1025;Per un pugno di dollari;Action;Sergio Leone;1964;99;12;25/10/2026 12:30;6,50
+P1026;Bacheha-Ye aseman;Drama;Majid Majidi;1997;89;6;25/10/2026 10:00;8,00
+P1027;Notorious;Drama;Alfred Hitchcock;1946;102;0;24/10/2026 18:00;9,00
+P1028;Star Trek II: The Wrath of Khan;Action;Nicholas Meyer;1982;113;0;24/10/2026 15:00;8,00
+P1029;Notorious;Drama;Alfred Hitchcock;1946;102;0;24/10/2026 12:30;7,50
+P1030;Majo no takkyûbin;Animation;Hayao Miyazaki;1989;103;0;24/10/2026 10:00;8,50
+P1031;La leggenda del pianista sull'oceano;Drama;Giuseppe Tornatore;1998;169;0;23/10/2026 10:00;7,50
+P1032;The King of Comedy;Comedy;Martin Scorsese;1982;109;0;22/10/2026 13:00;7,50
+P1033;To Be or Not to Be;Comedy;Ernst Lubitsch;1942;99;12;22/10/2026 10:30;8,00
+P1034;The Day the Earth Stood Still;Drama;Robert Wise;1951;92;0;21/10/2026 10:00;8,50
+P1035;The Station Agent;Comedy;Tom McCarthy;2003;89;16;20/10/2026 10:00;8,00
+P1036;8½;Drama;Federico Fellini;1963;138;12;19/10/2026 10:00;8,00
+P1037;Bacheha-Ye aseman;Drama;Majid Majidi;1997;89;6;18/10/2026 15:00;8,50
+P1038;L.A. Confidential;Crime;Curtis Hanson;1997;138;12;18/10/2026 12:00;8,00
+P1039;Lola rennt;Crime;Tom Tykwer;1998;81;12;18/10/2026 10:00;7,50
+P1040;Brazil;Drama;Terry Gilliam;1985;132;0;17/10/2026 19:00;8,50
+P1041;Dancer in the Dark;Crime;Lars von Trier;2000;140;0;17/10/2026 16:00;7,50
+P1042;8½;Drama;Federico Fellini;1963;138;12;17/10/2026 13:00;7,50
+P1043;The Sting;Comedy;George Roy Hill;1973;129;0;17/10/2026 10:00;8,50
+P1044;Donnie Darko;Drama;Richard Kelly;2001;113;16;16/10/2026 12:30;6,50
+P1045;Majo no takkyûbin;Animation;Hayao Miyazaki;1989;103;0;16/10/2026 10:00;8,50
+P1046;Bacheha-Ye aseman;Drama;Majid Majidi;1997;89;6;15/10/2026 10:00;7,50
+P1047;Secrets & Lies;Comedy;Mike Leigh;1996;136;0;14/10/2026 15:30;7,50
+P1048;Hana-bi;Crime;Takeshi Kitano;1997;103;12;14/10/2026 13:00;7,00
+P1049;Efter brylluppet;Drama;Susanne Bier;2006;120;16;14/10/2026 10:00;8,00
+P1050;Before Sunrise;Drama;Richard Linklater;1995;101;16;13/10/2026 13:00;7,00
+P1051;All About Eve;Drama;Joseph L. Mankiewicz;1950;138;12;13/10/2026 10:00;7,50
+P1052;What's Eating Gilbert Grape;Drama;Lasse Hallström;1993;118;0;12/10/2026 16:00;7,50
+P1053;Dancer in the Dark;Crime;Lars von Trier;2000;140;0;12/10/2026 13:00;6,50
+P1054;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;12/10/2026 10:30;8,00
+P1055;Efter brylluppet;Drama;Susanne Bier;2006;120;16;11/10/2026 18:30;8,50
+P1056;The Shop Around the Corner;Comedy;Ernst Lubitsch;1940;99;12;11/10/2026 16:00;8,00
+P1057;To Be or Not to Be;Comedy;Ernst Lubitsch;1942;99;12;11/10/2026 13:30;8,00
+P1058;Goodfellas;Biography;Martin Scorsese;1990;146;12;11/10/2026 10:00;8,50
+P1059;The Station Agent;Comedy;Tom McCarthy;2003;89;16;10/10/2026 18:00;9,00
+P1060;Goodfellas;Biography;Martin Scorsese;1990;146;12;10/10/2026 15:00;8,00
+P1061;Bacheha-Ye aseman;Drama;Majid Majidi;1997;89;6;10/10/2026 12:30;6,50
+P1062;Annie Hall;Comedy;Woody Allen;1977;93;12;10/10/2026 10:00;8,50
+P1063;Brokeback Mountain;Drama;Ang Lee;2005;134;12;09/10/2026 10:00;7,50
+P1064;The Sting;Comedy;George Roy Hill;1973;129;0;08/10/2026 12:30;8,00
+P1065;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;08/10/2026 10:00;8,00
+P1066;Secrets & Lies;Comedy;Mike Leigh;1996;136;0;07/10/2026 15:30;8,50
+P1067;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;07/10/2026 13:00;8,50
+P1068;Secrets & Lies;Comedy;Mike Leigh;1996;136;0;07/10/2026 10:00;6,50
+P1069;Efter brylluppet;Drama;Susanne Bier;2006;120;16;06/10/2026 14:30;7,00
+P1070;Lola rennt;Crime;Tom Tykwer;1998;81;12;06/10/2026 12:30;7,00
+P1071;Kung fu;Action;Stephen Chow;2004;99;12;06/10/2026 10:00;7,50
+P1072;Funny Games;Crime;Michael Haneke;1997;108;12;05/10/2026 10:30;8,00
+P1073;Awakenings;Biography;Penny Marshall;1990;121;0;04/10/2026 16:00;7,50
+P1074;Die Hard;Action;John McTiernan;1988;132;12;04/10/2026 13:00;8,50
+P1075;To Be or Not to Be;Comedy;Ernst Lubitsch;1942;99;12;04/10/2026 10:30;6,50
+P1076;The Sting;Comedy;George Roy Hill;1973;129;0;03/10/2026 18:00;9,00
+P1077;Ed Wood;Biography;Tim Burton;1994;127;0;03/10/2026 15:00;8,50
+P1078;O Brother, Where Art Thou?;Adventure;Joel Coen;2000;107;0;03/10/2026 12:30;8,50
+P1079;Kung fu;Action;Stephen Chow;2004;99;12;03/10/2026 10:00;7,00
+P1080;Brokeback Mountain;Drama;Ang Lee;2005;134;12;02/10/2026 12:30;7,50
+P1081;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;02/10/2026 10:00;8,50
+P1082;Die Hard: With a Vengeance;Action;John McTiernan;1995;128;12;01/10/2026 14:00;7,50
+P1083;La leggenda del pianista sull'oceano;Drama;Giuseppe Tornatore;1998;169;0;01/10/2026 10:00;8,00
+P1084;Annie Hall;Comedy;Woody Allen;1977;93;12;30/09/2026 10:00;6,50
+P1085;Die Hard;Action;John McTiernan;1988;132;12;29/09/2026 15:30;8,00
+P1086;Aguirre, der Zorn Gottes;Action;Werner Herzog;1972;95;12;29/09/2026 13:00;8,00
+P1087;Guess Who's Coming to Dinner;Comedy;Stanley Kramer;1967;108;12;29/09/2026 10:00;7,00
+P1088;O Brother, Where Art Thou?;Adventure;Joel Coen;2000;107;0;28/09/2026 13:00;6,50
+P1089;O Brother, Where Art Thou?;Adventure;Joel Coen;2000;107;0;28/09/2026 10:30;8,50
+P1090;Once Were Warriors;Crime;Lee Tamahori;1994;102;12;27/09/2026 17:00;8,00
+P1091;Laura;Drama;Otto Preminger;1944;88;12;27/09/2026 14:30;7,00
+P1092;Lola rennt;Crime;Tom Tykwer;1998;81;12;27/09/2026 12:30;8,00
+P1093;Brief Encounter;Drama;David Lean;1945;86;0;27/09/2026 10:00;8,00
+P1094;Dead Man;Adventure;Jim Jarmusch;1995;121;16;26/09/2026 18:00;10,00
+P1095;Witness for the Prosecution;Crime;Billy Wilder;1957;116;0;26/09/2026 15:00;7,00
+P1096;To Be or Not to Be;Comedy;Ernst Lubitsch;1942;99;12;26/09/2026 12:30;7,00
+P1097;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;26/09/2026 10:00;7,00
+P1098;Central do Brasil;Drama;Walter Salles;1998;110;16;25/09/2026 15:30;8,00
+P1099;Brief Encounter;Drama;David Lean;1945;86;0;25/09/2026 13:00;7,00
+P1100;Donnie Darko;Drama;Richard Kelly;2001;113;16;25/09/2026 10:30;7,50
+P1101;Star Trek II: The Wrath of Khan;Action;Nicholas Meyer;1982;113;0;24/09/2026 13:00;8,00
+P1102;Strangers on a Train;Crime;Alfred Hitchcock;1951;101;12;24/09/2026 10:30;8,50
+P1103;Laura;Drama;Otto Preminger;1944;88;12;23/09/2026 13:00;6,50
+P1104;V for Vendetta;Action;James McTeigue;2005;132;12;23/09/2026 10:00;6,50
+P1105;Sholay;Action;Ramesh Sippy;1975;204;0;22/09/2026 10:30;8,50
+P1106;Wo hu cang long;Action;Ang Lee;2000;120;12;21/09/2026 12:30;7,00
+P1107;A Christmas Story;Comedy;Bob Clark;1983;93;0;21/09/2026 10:00;7,50
+P1108;Funny Games;Crime;Michael Haneke;1997;108;12;20/09/2026 19:30;10,00
+P1109;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;20/09/2026 17:00;8,50
+P1110;Paris, Texas;Drama;Wim Wenders;1984;145;0;20/09/2026 13:30;8,50
+P1111;Efter brylluppet;Drama;Susanne Bier;2006;120;16;20/09/2026 10:30;7,00
+P1112;Ed Wood;Biography;Tim Burton;1994;127;0;19/09/2026 20:00;8,50
+P1113;Anand;Drama;Hrishikesh Mukherjee;1971;122;0;19/09/2026 17:00;7,50
+P1114;Wo hu cang long;Action;Ang Lee;2000;120;12;19/09/2026 14:00;7,00
+P1115;Stalker;Drama;Andrei Tarkovsky;1979;162;0;19/09/2026 10:30;6,50
+P1116;A Christmas Story;Comedy;Bob Clark;1983;93;0;18/09/2026 10:00;6,50
+P1117;Mad Max 2;Action;George Miller;1981;96;12;17/09/2026 13:00;7,00
+P1118;No Man's Land;Comedy;Danis Tanovic;2001;98;16;17/09/2026 10:30;6,50
+P1119;Ed Wood;Biography;Tim Burton;1994;127;0;16/09/2026 16:00;8,00
+P1120;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;16/09/2026 12:30;7,50
+P1121;Mad Max 2;Action;George Miller;1981;96;12;16/09/2026 10:00;7,50
+P1122;Yeopgijeogin geunyeo;Comedy;Jae-young Kwak;2001;137;12;15/09/2026 16:30;7,50
+P1123;Kumonosu-jô;Drama;Akira Kurosawa;1957;110;12;15/09/2026 13:30;8,00
+P1124;Witness for the Prosecution;Crime;Billy Wilder;1957;116;0;15/09/2026 10:30;8,50
+P1125;Star Wars;Action;George Lucas;1977;121;12;14/09/2026 16:00;7,50
+P1126;Roman Holiday;Comedy;William Wyler;1953;118;12;14/09/2026 13:30;7,00
+P1127;Efter brylluppet;Drama;Susanne Bier;2006;120;16;14/09/2026 10:30;7,00
+P1128;Star Trek II: The Wrath of Khan;Action;Nicholas Meyer;1982;113;0;13/09/2026 20:00;9,00
+P1129;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;13/09/2026 16:30;8,00
+P1130;Blood Diamond;Adventure;Edward Zwick;2006;143;12;13/09/2026 13:30;7,50
+P1131;Blood Diamond;Adventure;Edward Zwick;2006;143;12;13/09/2026 10:00;7,00
+P1132;Sleuth;Mystery;Joseph L. Mankiewicz;1972;138;6;12/09/2026 15:30;8,50
+P1133;The Station Agent;Comedy;Tom McCarthy;2003;89;16;12/09/2026 13:00;8,50
+P1134;Funny Games;Crime;Michael Haneke;1997;108;12;12/09/2026 10:30;7,00
+P1135;The Exorcist;Horror;William Friedkin;1973;122;12;11/09/2026 16:00;7,50
+P1136;O Brother, Where Art Thou?;Adventure;Joel Coen;2000;107;0;11/09/2026 13:30;7,00
+P1137;Star Trek II: The Wrath of Khan;Action;Nicholas Meyer;1982;113;0;11/09/2026 10:30;8,50
+P1138;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;10/09/2026 10:00;8,50
+P1139;O Brother, Where Art Thou?;Adventure;Joel Coen;2000;107;0;09/09/2026 13:00;7,00
+P1140;Lat sau san taam;Action;John Woo;1992;128;16;09/09/2026 10:00;7,50
+P1141;Stalag 17;Comedy;Billy Wilder;1953;120;12;08/09/2026 16:30;8,50
+P1142;Yeopgijeogin geunyeo;Comedy;Jae-young Kwak;2001;137;12;08/09/2026 13:00;6,50
+P1143;Guess Who's Coming to Dinner;Comedy;Stanley Kramer;1967;108;12;08/09/2026 10:30;6,50
+P1144;Funny Games;Crime;Michael Haneke;1997;108;12;07/09/2026 13:30;6,50
+P1145;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;07/09/2026 10:00;8,50
+P1146;Guess Who's Coming to Dinner;Comedy;Stanley Kramer;1967;108;12;06/09/2026 15:00;7,00
+P1147;The Night of the Hunter;Crime;Charles Laughton;1955;92;12;06/09/2026 12:30;6,50
+P1148;Rope;Crime;Alfred Hitchcock;1948;80;12;06/09/2026 10:00;8,00
+P1149;La Grande Illusion;Drama;Jean Renoir;1937;113;12;05/09/2026 17:00;8,50
+P1150;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;05/09/2026 13:30;7,00
+P1151;Once Upon a Time in the West;Western;Sergio Leone;1968;165;0;05/09/2026 10:00;7,50
+P1152;Efter brylluppet;Drama;Susanne Bier;2006;120;16;04/09/2026 12:30;8,00
+P1153;Once Were Warriors;Crime;Lee Tamahori;1994;102;12;04/09/2026 10:00;8,50
+P1154;What Ever Happened to Baby Jane?;Drama;Robert Aldrich;1962;134;12;03/09/2026 10:30;8,00
+P1155;Once Were Warriors;Crime;Lee Tamahori;1994;102;12;02/09/2026 10:00;6,50
+P1156;Paris, Texas;Drama;Wim Wenders;1984;145;0;01/09/2026 10:00;8,50
+P1157;Stalker;Drama;Andrei Tarkovsky;1979;162;0;31/08/2026 12:00;7,50
+P1158;The Circus;Comedy;Charles Chaplin;1928;72;12;31/08/2026 10:00;7,50
+P1159;V for Vendetta;Action;James McTeigue;2005;132;12;30/08/2026 15:00;8,00
+P1160;The Truman Show;Comedy;Peter Weir;1998;103;0;30/08/2026 12:30;7,50
+P1161;Funny Games;Crime;Michael Haneke;1997;108;12;30/08/2026 10:00;6,50
+P1162;Kumonosu-jô;Drama;Akira Kurosawa;1957;110;12;29/08/2026 17:00;8,00
+P1163;The Bourne Identity;Action;Doug Liman;2002;119;12;29/08/2026 14:00;7,50
+P1164;The Right Stuff;Adventure;Philip Kaufman;1983;193;6;29/08/2026 10:00;7,00
+P1165;The Color Purple;Drama;Steven Spielberg;1985;154;0;28/08/2026 10:30;8,50
+P1166;Blood Diamond;Adventure;Edward Zwick;2006;143;12;27/08/2026 15:30;6,50
+P1167;The General;Action;Clyde Bruckman;1926;67;12;27/08/2026 13:30;6,50
+P1168;Lat sau san taam;Action;John Woo;1992;128;16;27/08/2026 10:30;8,00
+P1169;The Notebook;Drama;Nick Cassavetes;2004;123;12;26/08/2026 10:30;6,50
+P1170;Rope;Crime;Alfred Hitchcock;1948;80;12;25/08/2026 15:30;7,00
+P1171;Stalag 17;Comedy;Billy Wilder;1953;120;12;25/08/2026 12:30;7,00
+P1172;Zelig;Comedy;Woody Allen;1983;79;6;25/08/2026 10:30;8,50
+P1173;Rope;Crime;Alfred Hitchcock;1948;80;12;24/08/2026 10:00;8,50
+P1174;La Grande Illusion;Drama;Jean Renoir;1937;113;12;23/08/2026 17:30;7,00
+P1175;The Station Agent;Comedy;Tom McCarthy;2003;89;16;23/08/2026 15:00;6,50
+P1176;Central do Brasil;Drama;Walter Salles;1998;110;16;23/08/2026 12:30;6,50
+P1177;The General;Action;Clyde Bruckman;1926;67;12;23/08/2026 10:30;8,00
+P1178;The Truman Show;Comedy;Peter Weir;1998;103;0;22/08/2026 14:00;8,00
+P1179;The Color Purple;Drama;Steven Spielberg;1985;154;0;22/08/2026 10:30;8,50
+P1180;Stalag 17;Comedy;Billy Wilder;1953;120;12;21/08/2026 17:00;7,00
+P1181;Glengarry Glen Ross;Crime;James Foley;1992;100;16;21/08/2026 14:30;7,00
+P1182;Judgment at Nuremberg;Drama;Stanley Kramer;1961;179;12;21/08/2026 10:30;7,50
+P1183;The Color Purple;Drama;Steven Spielberg;1985;154;0;20/08/2026 10:00;7,50
+P1184;Spoorloos;Mystery;George Sluizer;1988;107;12;19/08/2026 12:30;7,00
+P1185;Harold and Maude;Comedy;Hal Ashby;1971;91;6;19/08/2026 10:00;8,00
+P1186;The Game;Action;David Fincher;1997;129;12;18/08/2026 13:30;6,50
+P1187;Sleuth;Mystery;Joseph L. Mankiewicz;1972;138;6;18/08/2026 10:30;7,00
+P1188;Sleuth;Mystery;Joseph L. Mankiewicz;1972;138;6;17/08/2026 15:00;6,50
+P1189;The Circus;Comedy;Charles Chaplin;1928;72;12;17/08/2026 13:00;8,00
+P1190;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;17/08/2026 10:00;8,00
+P1191;The Game;Action;David Fincher;1997;129;12;16/08/2026 20:00;9,00
+P1192;Roman Holiday;Comedy;William Wyler;1953;118;12;16/08/2026 17:00;6,50
+P1193;Zwartboek;Drama;Paul Verhoeven;2006;145;16;16/08/2026 13:30;8,50
+P1194;Blood Diamond;Adventure;Edward Zwick;2006;143;12;16/08/2026 10:30;7,00
+P1195;Miracle on 34th Street;Comedy;George Seaton;1947;96;12;15/08/2026 15:30;6,50
+P1196;Mad Max 2;Action;George Miller;1981;96;12;15/08/2026 13:00;7,50
+P1197;Spoorloos;Mystery;George Sluizer;1988;107;12;15/08/2026 10:30;7,50
+P1198;Kumonosu-jô;Drama;Akira Kurosawa;1957;110;12;14/08/2026 13:30;8,00
+P1199;Awakenings;Biography;Penny Marshall;1990;121;0;14/08/2026 10:30;8,00
+P1200;The Game;Action;David Fincher;1997;129;12;13/08/2026 17:30;7,50
+P1201;Doctor Zhivago;Drama;David Lean;1965;197;12;13/08/2026 13:30;8,50
+P1202;La battaglia di Algeri;Drama;Gillo Pontecorvo;1966;121;12;13/08/2026 10:30;8,50
+P1203;Blood Diamond;Adventure;Edward Zwick;2006;143;12;12/08/2026 17:00;7,00
+P1204;Zwartboek;Drama;Paul Verhoeven;2006;145;16;12/08/2026 13:30;8,50
+P1205;Sleuth;Mystery;Joseph L. Mankiewicz;1972;138;6;12/08/2026 10:30;7,00
+P1206;Star Wars;Action;George Lucas;1977;121;12;11/08/2026 13:30;7,00
+P1207;The Wild Bunch;Action;Sam Peckinpah;1969;145;12;11/08/2026 10:00;6,50
+P1208;Shadow of a Doubt;Film-Noir;Alfred Hitchcock;1943;108;6;10/08/2026 10:30;7,50
+P1209;Being John Malkovich;Comedy;Spike Jonze;1999;113;16;09/08/2026 15:30;8,50
+P1210;Roman Holiday;Comedy;William Wyler;1953;118;12;09/08/2026 12:30;8,00
+P1211;Das Cabinet des Dr. Caligari;Fantasy;Robert Wiene;1920;76;12;09/08/2026 10:30;8,00
+P1212;Being John Malkovich;Comedy;Spike Jonze;1999;113;16;08/08/2026 18:00;8,50
+P1213;Being John Malkovich;Comedy;Spike Jonze;1999;113;16;08/08/2026 15:30;7,50
+P1214;Glengarry Glen Ross;Crime;James Foley;1992;100;16;08/08/2026 13:00;8,50
+P1215;Pride & Prejudice;Drama;Joe Wright;2005;129;6;08/08/2026 10:00;6,50
+P1216;Badlands;Action;Terrence Malick;1973;94;6;07/08/2026 10:30;8,50
+P1217;Delicatessen;Comedy;Marc Caro;1991;99;16;06/08/2026 13:00;7,00
+P1218;On the Waterfront;Crime;Elia Kazan;1954;108;12;06/08/2026 10:30;8,00
+P1219;Miracle on 34th Street;Comedy;George Seaton;1947;96;12;05/08/2026 15:00;6,50
+P1220;À bout de souffle;Crime;Jean-Luc Godard;1960;90;0;05/08/2026 12:30;7,50
+P1221;The Station Agent;Comedy;Tom McCarthy;2003;89;16;05/08/2026 10:00;8,50
+P1222;Pride & Prejudice;Drama;Joe Wright;2005;129;6;04/08/2026 10:30;8,50
+P1223;Roman Holiday;Comedy;William Wyler;1953;118;12;03/08/2026 12:30;6,50
+P1224;Midnight Cowboy;Drama;John Schlesinger;1969;113;12;03/08/2026 10:00;6,50
+P1225;No Man's Land;Comedy;Danis Tanovic;2001;98;16;02/08/2026 16:00;6,50
+P1226;Awakenings;Biography;Penny Marshall;1990;121;0;02/08/2026 13:00;7,50
+P1227;No Man's Land;Comedy;Danis Tanovic;2001;98;16;02/08/2026 10:30;8,50
+P1228;Star Wars;Action;George Lucas;1977;121;12;01/08/2026 17:00;6,50
+P1229;Awakenings;Biography;Penny Marshall;1990;121;0;01/08/2026 14:00;7,00
+P1230;Doctor Zhivago;Drama;David Lean;1965;197;12;01/08/2026 10:00;7,00
+P1231;Das Cabinet des Dr. Caligari;Fantasy;Robert Wiene;1920;76;12;31/07/2026 10:00;8,00
+P1232;Miracle on 34th Street;Comedy;George Seaton;1947;96;12;30/07/2026 12:30;7,50
+P1233;On the Waterfront;Crime;Elia Kazan;1954;108;12;30/07/2026 10:00;8,50
+P1234;The Bridges of Madison County;Drama;Clint Eastwood;1995;135;12;29/07/2026 10:00;7,50
+P1235;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;28/07/2026 15:30;6,50
+P1236;Being John Malkovich;Comedy;Spike Jonze;1999;113;16;28/07/2026 12:30;7,50
+P1237;Das Cabinet des Dr. Caligari;Fantasy;Robert Wiene;1920;76;12;28/07/2026 10:00;7,00
+P1238;The Wild Bunch;Action;Sam Peckinpah;1969;145;12;27/07/2026 10:30;8,00
+P1239;Star Wars;Action;George Lucas;1977;121;12;26/07/2026 19:00;8,50
+P1240;Awakenings;Biography;Penny Marshall;1990;121;0;26/07/2026 16:00;6,50
+P1241;Badlands;Action;Terrence Malick;1973;94;6;26/07/2026 13:30;8,00
+P1242;Pride & Prejudice;Drama;Joe Wright;2005;129;6;26/07/2026 10:30;8,50
+P1243;Rebecca;Drama;Alfred Hitchcock;1940;130;12;25/07/2026 15:30;8,50
+P1244;No Man's Land;Comedy;Danis Tanovic;2001;98;16;25/07/2026 13:00;7,50
+P1245;Star Wars;Action;George Lucas;1977;121;12;25/07/2026 10:00;7,50
+P1246;On the Waterfront;Crime;Elia Kazan;1954;108;12;24/07/2026 12:30;6,50
+P1247;Manhattan;Comedy;Woody Allen;1979;96;16;24/07/2026 10:00;7,00
+P1248;On the Waterfront;Crime;Elia Kazan;1954;108;12;23/07/2026 13:00;6,50
+P1249;The Adventures of Robin Hood;Action;Michael Curtiz;1938;102;6;23/07/2026 10:30;7,00
+P1250;Miracle on 34th Street;Comedy;George Seaton;1947;96;12;22/07/2026 13:30;8,50
+P1251;The Bridges of Madison County;Drama;Clint Eastwood;1995;135;12;22/07/2026 10:30;7,00
+P1252;Giant;Drama;George Stevens;1956;201;0;21/07/2026 13:30;7,00
+P1253;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;21/07/2026 10:30;8,50
+P1254;Delicatessen;Comedy;Marc Caro;1991;99;16;20/07/2026 14:00;8,50
+P1255;Doctor Zhivago;Drama;David Lean;1965;197;12;20/07/2026 10:00;7,00
+P1256;The Circus;Comedy;Charles Chaplin;1928;72;12;19/07/2026 15:30;6,50
+P1257;Unforgiven;Drama;Clint Eastwood;1992;130;12;19/07/2026 12:30;6,50
+P1258;Tôkyô goddofâzâzu;Animation;Satoshi Kon;2003;90;12;19/07/2026 10:00;8,00
+P1259;À bout de souffle;Crime;Jean-Luc Godard;1960;90;0;18/07/2026 15:00;8,50
+P1260;Spoorloos;Mystery;George Sluizer;1988;107;12;18/07/2026 12:30;7,50
+P1261;Tôkyô goddofâzâzu;Animation;Satoshi Kon;2003;90;12;18/07/2026 10:00;7,00
+P1262;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;17/07/2026 12:30;8,50
+P1263;Badlands;Action;Terrence Malick;1973;94;6;17/07/2026 10:00;8,00
+P1264;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;16/07/2026 15:00;8,50
+P1265;Funny Games;Crime;Michael Haneke;1997;108;12;16/07/2026 12:30;7,00
+P1266;Spoorloos;Mystery;George Sluizer;1988;107;12;16/07/2026 10:00;7,00
+P1267;Rebecca;Drama;Alfred Hitchcock;1940;130;12;15/07/2026 16:30;7,00
+P1268;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;15/07/2026 14:00;7,50
+P1269;The Wild Bunch;Action;Sam Peckinpah;1969;145;12;15/07/2026 10:30;7,50
+P1270;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;14/07/2026 14:00;7,00
+P1271;The Longest Day;Action;Ken Annakin;1962;178;0;14/07/2026 10:00;8,00
+P1272;Heat;Crime;Michael Mann;1995;170;12;13/07/2026 17:00;7,00
+P1273;Giant;Drama;George Stevens;1956;201;0;13/07/2026 12:30;8,50
+P1274;The Graduate;Comedy;Mike Nichols;1967;106;12;13/07/2026 10:00;6,50
+P1275;Manhattan;Comedy;Woody Allen;1979;96;16;12/07/2026 15:30;8,00
+P1276;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;12/07/2026 13:00;7,00
+P1277;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;12/07/2026 10:30;6,50
+P1278;Jungfrukällan;Drama;Ingmar Bergman;1960;89;12;11/07/2026 16:30;7,50
+P1279;La battaglia di Algeri;Drama;Gillo Pontecorvo;1966;121;12;11/07/2026 13:30;6,50
+P1280;La battaglia di Algeri;Drama;Gillo Pontecorvo;1966;121;12;11/07/2026 10:30;7,00
+P1281;Cast Away;Adventure;Robert Zemeckis;2000;143;12;10/07/2026 13:30;8,50
+P1282;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;10/07/2026 10:30;8,50
+P1283;Manhattan;Comedy;Woody Allen;1979;96;16;09/07/2026 16:00;7,00
+P1284;Spoorloos;Mystery;George Sluizer;1988;107;12;09/07/2026 13:30;7,00
+P1285;Kill Bill: Vol. 2;Action;Quentin Tarantino;2004;137;12;09/07/2026 10:30;6,50
+P1286;Vizontele;Comedy;Yilmaz Erdogan;2001;110;12;08/07/2026 10:30;6,50
+P1287;Funny Games;Crime;Michael Haneke;1997;108;12;07/07/2026 10:30;8,00
+P1288;À bout de souffle;Crime;Jean-Luc Godard;1960;90;0;06/07/2026 10:30;8,00
+P1289;Empire of the Sun;Action;Steven Spielberg;1987;153;0;05/07/2026 16:00;8,00
+P1290;Fantasia;Animation;James Algar;1940;125;0;05/07/2026 13:00;6,50
+P1291;La battaglia di Algeri;Drama;Gillo Pontecorvo;1966;121;12;05/07/2026 10:00;7,00
+P1292;Spoorloos;Mystery;George Sluizer;1988;107;12;04/07/2026 19:00;9,00
+P1293;Cast Away;Adventure;Robert Zemeckis;2000;143;12;04/07/2026 16:00;7,50
+P1294;Apocalypto;Action;Mel Gibson;2006;139;12;04/07/2026 13:00;7,00
+P1295;Spoorloos;Mystery;George Sluizer;1988;107;12;04/07/2026 10:30;8,50
+P1296;The World's Fastest Indian;Biography;Roger Donaldson;2005;127;0;03/07/2026 10:30;6,50
+P1297;Kal Ho Naa Ho;Comedy;Nikkhil Advani;2003;186;0;02/07/2026 10:00;8,50
+P1298;À bout de souffle;Crime;Jean-Luc Godard;1960;90;0;01/07/2026 10:00;7,50
+P1299;Jungfrukällan;Drama;Ingmar Bergman;1960;89;12;30/06/2026 16:00;7,50
+P1300;Funny Games;Crime;Michael Haneke;1997;108;12;30/06/2026 13:00;8,50
+P1301;Rebecca;Drama;Alfred Hitchcock;1940;130;12;30/06/2026 10:00;7,00
+P1302;What's Eating Gilbert Grape;Drama;Lasse Hallström;1993;118;0;29/06/2026 13:30;7,50
+P1303;Omohide poro poro;Animation;Isao Takahata;1991;118;0;29/06/2026 10:30;8,50
+P1304;Apocalypto;Action;Mel Gibson;2006;139;12;28/06/2026 18:30;9,50
+P1305;Fantasia;Animation;James Algar;1940;125;0;28/06/2026 15:30;7,00
+P1306;In the Heat of the Night;Crime;Norman Jewison;1967;110;0;28/06/2026 13:00;8,00
+P1307;Tôkyô goddofâzâzu;Animation;Satoshi Kon;2003;90;12;28/06/2026 10:30;8,50
+P1308;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;27/06/2026 16:00;7,00
+P1309;To Have and Have Not;Adventure;Howard Hawks;1944;100;6;27/06/2026 13:30;8,00
+P1310;Unforgiven;Drama;Clint Eastwood;1992;130;12;27/06/2026 10:30;8,50
+P1311;Giant;Drama;George Stevens;1956;201;0;26/06/2026 14:00;8,50
+P1312;Heat;Crime;Michael Mann;1995;170;12;26/06/2026 10:30;8,00
+P1313;28 Days Later...;Drama;Danny Boyle;2002;113;12;25/06/2026 15:00;8,00
+P1314;À bout de souffle;Crime;Jean-Luc Godard;1960;90;0;25/06/2026 12:30;7,00
+P1315;Laura;Drama;Otto Preminger;1944;88;12;25/06/2026 10:00;8,50
+P1316;Vizontele;Comedy;Yilmaz Erdogan;2001;110;12;24/06/2026 15:00;8,00
+P1317;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;24/06/2026 12:30;6,50
+P1318;The Graduate;Comedy;Mike Nichols;1967;106;12;24/06/2026 10:00;7,00
+P1319;Unforgiven;Drama;Clint Eastwood;1992;130;12;23/06/2026 13:30;8,50
+P1320;Anand;Drama;Hrishikesh Mukherjee;1971;122;0;23/06/2026 10:30;8,00
+P1321;Laura;Drama;Otto Preminger;1944;88;12;22/06/2026 16:30;8,00
+P1322;The Silence of the Lambs;Crime;Jonathan Demme;1991;118;12;22/06/2026 13:30;6,50
+P1323;What's Eating Gilbert Grape;Drama;Lasse Hallström;1993;118;0;22/06/2026 10:30;8,50
+P1324;Empire of the Sun;Action;Steven Spielberg;1987;153;0;21/06/2026 17:30;6,50
+P1325;Rebecca;Drama;Alfred Hitchcock;1940;130;12;21/06/2026 14:30;8,00
+P1326;Before Sunrise;Drama;Richard Linklater;1995;101;16;21/06/2026 12:00;7,00
+P1327;Laura;Drama;Otto Preminger;1944;88;12;21/06/2026 10:00;7,50
+P1328;Sling Blade;Drama;Billy Bob Thornton;1996;135;16;20/06/2026 15:30;8,00
+P1329;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;20/06/2026 13:00;8,00
+P1330;Tôkyô goddofâzâzu;Animation;Satoshi Kon;2003;90;12;20/06/2026 10:30;7,00
+P1331;What's Eating Gilbert Grape;Drama;Lasse Hallström;1993;118;0;19/06/2026 12:30;7,00
+P1332;Trois couleurs: Blanc;Comedy;Krzysztof Kieslowski;1994;92;0;19/06/2026 10:00;8,00
+P1333;Jurassic Park;Action;Steven Spielberg;1993;127;12;18/06/2026 16:30;8,00
+P1781265149540;Titanic;Drama;James Cameron;1998;194;16;30/06/2026 14:00;8,50
+P1781265373604;Titanic;Drama;James Cameron;1998;194;16;01/07/2026 19:00;8,50
