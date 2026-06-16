@@ -1,0 +1,95 @@
+====================================================
+  CineMax - Sistema di gestione cinema
+  Laboratorio Interdisciplinare A - a.a. 2025/2026
+  Università degli Studi dell'Insubria
+====================================================
+
+AUTORI
+------
+Vedi file autori.txt nella radice del repository.
+
+REQUISITI
+---------
+- Java JDK 17 o versione successiva (multipiattaforma)
+- Nessuna libreria esterna richiesta
+
+STRUTTURA DEL REPOSITORY
+--------------------------
+├── src/
+│    ├── main/
+│    │   └── CineMax.java    → classe principale (main)
+│    │
+│    ├── model/
+│    │   ├── Film.java
+│    │   ├── Prenotazione.java
+│    │   ├── Proiezione.java
+│    │   ├── Utente.java
+│    │
+│    └── utils/
+│        └── GestoreFile.java
+│
+├── autori.txt              → dati degli autori del progetto
+│
+├── README.txt              → questo file
+│
+├── bin/
+│   └── cinemax.jar         → file eseguibile
+├── data/
+│   ├── proiezioni.csv      → dati delle proiezioni
+│   ├── utenti.csv          → dati degli utenti (generato al primo avvio)
+│   └── prenotazioni.csv    → dati delle prenotazioni (generato al primo avvio)
+├── doc/
+│   ├── ManualeTecnico.pdf
+│   ├── ManualeUtente.pdf
+│   └── javadoc/            → documentazione JavaDoc generata
+└── lib/                    → librerie esterne (vuota, non necessaria)
+
+COMPILAZIONE
+-------------
+Dalla cartella radice del progetto:
+
+  Windows:
+    javac -d bin/classes src/main/*.java src/model/*.java src/utils/*.java
+    jar cfe bin/cinemax.jar main.CineMax -C bin/classes .
+
+  Linux/macOS:
+    javac -d bin/classes src/main/*.java src/model/*.java src/utils/*.java
+    jar cfe bin/cinemax.jar main.CineMax -C bin/classes .
+
+ESECUZIONE
+-----------
+Dalla cartella radice del progetto (importante: eseguire dalla radice
+affinché i file CSV in data/ vengano trovati correttamente):
+
+  java -jar bin/cinemax.jar
+
+PRIMO AVVIO
+-----------
+Al primo avvio, se i file utenti.csv e prenotazioni.csv non esistono,
+vengono creati automaticamente. Il file utenti.csv viene popolato con:
+  - 2 proiezionisti
+  - 5 bigliettai
+La password di default per tutti gli utenti pre-caricati è: password123
+
+UTENTI DI DEFAULT
+-----------------
+Username       Password       Ruolo
+-----------    -----------    ---------------
+mrossi         password123    proiezionista
+lbianchi       password123    proiezionista
+averdi         password123    bigliettaio
+lneri          password123    bigliettaio
+sgialli        password123    bigliettaio
+pmarini        password123    bigliettaio
+eferri         password123    bigliettaio
+
+GENERAZIONE JAVADOC
+--------------------
+  javadoc -d doc/javadoc src/main/*.java src/model/*.java src/utils/*.java
+
+NOTE
+----
+- I file CSV usano il separatore ";" e la codifica UTF-8.
+- Le password sono cifrate con hash SHA-256.
+- I codici prenotazione sono UUID v4 (generati automaticamente).
+- Non è richiesta gestione di accesso concorrente.
